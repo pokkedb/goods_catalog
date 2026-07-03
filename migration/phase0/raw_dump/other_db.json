@@ -1,0 +1,3789 @@
+[
+  {
+    "object": "page",
+    "id": "2e759857-726b-81a1-89d4-fd5bdcc534ac",
+    "created_time": "2026-01-13T13:41:00.000Z",
+    "last_edited_time": "2026-01-13T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-81a5-a121-e36282568a26"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "2279723386557",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "2279723386557",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 40
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "2e759857-726b-8091-8ba2-f64600213da2"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 155
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2026-01-13T13:40:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": []
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 330
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ブックマーク",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ブックマーク",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/2e759857726b81a189d4fd5bdcc534ac",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "2df59857-726b-81aa-9936-d11ef852fe51",
+    "created_time": "2026-01-05T15:09:00.000Z",
+    "last_edited_time": "2026-01-05T15:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8145-a65e-e3b382239c1a"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4947879013426",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4947879013426",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "2df59857-726b-8070-9da3-ecaf20377392"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2026-01-05T15:08:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": []
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ブックスタンドU型",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ブックスタンドU型",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/U-2df59857726b81aa9936d11ef852fe51",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "25059857-726b-81b8-9a38-f6afda2e5538",
+    "created_time": "2025-08-15T12:30:00.000Z",
+    "last_edited_time": "2025-08-15T12:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "24859857-726b-80cd-98b6-eb365bee27fb"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 53
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "25059857-726b-80aa-b03e-e14d2d7164f7"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 66
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-08-15T12:04:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": []
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 605
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ロルバーンミクロ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ロルバーンミクロ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/25059857726b81b89a38f6afda2e5538",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "25059857-726b-8133-9f0f-f94b1ce03874",
+    "created_time": "2025-08-15T12:30:00.000Z",
+    "last_edited_time": "2025-08-15T12:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-814e-9311-c0c79f48aa1c"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4905687358863",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4905687358863",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 70
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "25059857-726b-8037-9ecb-d751b42a2a71"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 20
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-08-15T12:27:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": []
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "L字透明仕切り板粘着テープショート",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "L字透明仕切り板粘着テープショート",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/L-25059857726b81339f0ff94b1ce03874",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "22159857-726b-8144-8822-dc3077fb4839",
+    "created_time": "2025-06-29T04:46:00.000Z",
+    "last_edited_time": "2025-06-29T04:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "22159857-726b-809e-92b1-f226b9f862e0"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4906327904921",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4906327904921",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 7
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "22159857-726b-8021-bcc1-ef360f85da81"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 7
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-06-29T04:45:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "LRM_20250629_134840.jpg",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/e0abc2c8-b1e6-464d-ae9b-865a229f360f/0ce2ac21-2aef-4cf4-8042-5bb498176968/LRM_20250629_134840.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662LBM7H5A%2F20260703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260703T062940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJIMEYCIQCi1md2kJLsW6G%2BX5qQijv2nH65rknjmHgsrrRlPT7g%2FQIhANnsW5CIk%2FWi0%2B7OdXqxuDwGOBAAMPHB%2BIxAREIuwQWvKv8DCAcQABoMNjM3NDIzMTgzODA1IgwUQi0XSkLMYezuGR0q3AO3jjJfUsf4f8mKK%2BzrR3Z87kNiipwuUWhCgMqeWyFTtxy8hU%2F2%2BPGpVwLocjOHZLUCVytLWkr8R5w9L5LNQVBMMzkrPhQZgjHoGgW5v%2FE7OoF7Kz7qR4ujnAOOAoYCD%2FlC9UtXrEQ3kb8uDSroCa44hsU1CQTGs0kcs97EbeKBsLgKahp1Xe01%2BG%2F3J9OhmGmbrxDOxjqDEaR9STsbotvV3T9e0VbZAz1njzPJitjo4m6vODNReu3SG%2F3dkz7tteSLnur%2Fb59qvq%2FrI4Aofffjlluqix5XGBpC95315j2%2FYs3M%2FT6Mqd8HH3eyfhE7ZKkkp2FgmLy9xooJE3Rxf3Fe4%2B4uu8%2B1iPqkFnBsUyi9lPKbDFcWmwbxpH3WrRp4i7MV0y4eAZyhaV9u8gN8sXpuSuluW%2FbwFfQY4p65nckZuP26BhOPaPq3jJOUtf06BHPoQc%2FwHIYi9e7xjDHlYFHVfQGXzDqRBqEe%2BnzpOV74qrSLD%2FMO%2Bk7kFFVUEEBOHuMH8yDupDov8nG0y2gS8H%2BSMcahfZVLvmUctdF9Q4y0zp3JaBD0d25ryBckS4OAKQAI2hD8%2BWdBJiB4XurGjhu9f3MgosF5WzF4GcGA%2F7%2BJE1RSME2I2K7mvmQdATCRlJ3SBjqkAWvi5dEjwIquQJdtzAIWHinfNG2R%2B78wejUbP4mB0mCJlCO6G9wUdqZMzZlhlZCnX1UCFDKjjYbU5TsRA9IGIze7oM%2FKEpzooFKsivRdCgjmAHf1wNqxJW9L1EuA6%2BzemJc3c%2B%2B%2BRWJlMjxxL1NrotS2g71E4lsMwMXoGi7rFZZnkWL2qMb6G2GMMiehKRvdP6I6hRsoNJtWIhn6ocoS%2FdflrwGQ&X-Amz-Signature=7de7f350ce9e1ca07ae77ab83b29f04d3e168e326d35ca8a6bf56c911f10d1f9&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-07-03T07:29:40.899Z"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "アルカリボタン電池LR41",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "アルカリボタン電池LR41",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/LR41-22159857726b81448822dc3077fb4839",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1d759857-726b-8183-ba20-df24f472222a",
+    "created_time": "2025-04-16T09:19:00.000Z",
+    "last_edited_time": "2025-04-16T09:28:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8160-8084-e3c4d4467666"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4549131983289",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4549131983289",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 100
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1d759857-726b-80ed-8d7a-f629f20da2f9"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 75
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-04-16T08:57:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "20250416_182404.jpg",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/e0abc2c8-b1e6-464d-ae9b-865a229f360f/9561c649-dd20-4303-acde-4820faded694/20250416_182404.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662LBM7H5A%2F20260703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260703T062940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJIMEYCIQCi1md2kJLsW6G%2BX5qQijv2nH65rknjmHgsrrRlPT7g%2FQIhANnsW5CIk%2FWi0%2B7OdXqxuDwGOBAAMPHB%2BIxAREIuwQWvKv8DCAcQABoMNjM3NDIzMTgzODA1IgwUQi0XSkLMYezuGR0q3AO3jjJfUsf4f8mKK%2BzrR3Z87kNiipwuUWhCgMqeWyFTtxy8hU%2F2%2BPGpVwLocjOHZLUCVytLWkr8R5w9L5LNQVBMMzkrPhQZgjHoGgW5v%2FE7OoF7Kz7qR4ujnAOOAoYCD%2FlC9UtXrEQ3kb8uDSroCa44hsU1CQTGs0kcs97EbeKBsLgKahp1Xe01%2BG%2F3J9OhmGmbrxDOxjqDEaR9STsbotvV3T9e0VbZAz1njzPJitjo4m6vODNReu3SG%2F3dkz7tteSLnur%2Fb59qvq%2FrI4Aofffjlluqix5XGBpC95315j2%2FYs3M%2FT6Mqd8HH3eyfhE7ZKkkp2FgmLy9xooJE3Rxf3Fe4%2B4uu8%2B1iPqkFnBsUyi9lPKbDFcWmwbxpH3WrRp4i7MV0y4eAZyhaV9u8gN8sXpuSuluW%2FbwFfQY4p65nckZuP26BhOPaPq3jJOUtf06BHPoQc%2FwHIYi9e7xjDHlYFHVfQGXzDqRBqEe%2BnzpOV74qrSLD%2FMO%2Bk7kFFVUEEBOHuMH8yDupDov8nG0y2gS8H%2BSMcahfZVLvmUctdF9Q4y0zp3JaBD0d25ryBckS4OAKQAI2hD8%2BWdBJiB4XurGjhu9f3MgosF5WzF4GcGA%2F7%2BJE1RSME2I2K7mvmQdATCRlJ3SBjqkAWvi5dEjwIquQJdtzAIWHinfNG2R%2B78wejUbP4mB0mCJlCO6G9wUdqZMzZlhlZCnX1UCFDKjjYbU5TsRA9IGIze7oM%2FKEpzooFKsivRdCgjmAHf1wNqxJW9L1EuA6%2BzemJc3c%2B%2B%2BRWJlMjxxL1NrotS2g71E4lsMwMXoGi7rFZZnkWL2qMb6G2GMMiehKRvdP6I6hRsoNJtWIhn6ocoS%2FdflrwGQ&X-Amz-Signature=ec259018fa504386e5719d8df78026950b15e1cb80619e2a078ebd808c01c867&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-07-03T07:29:40.899Z"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ファイルボックス用仕切り板2個",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ファイルボックス用仕切り板2個",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/2-1d759857726b8183ba20df24f472222a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1c359857-726b-80d9-8c46-cb74364f5a4f",
+    "created_time": "2025-03-27T07:16:00.000Z",
+    "last_edited_time": "2025-03-27T16:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8160-8084-e3c4d4467666"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4940921819540",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4940921819540",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 150
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1c359857-726b-805f-adcd-ca18d731d96b"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 235
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-27T07:16:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "IMG_20250328_011649.jpg",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/e0abc2c8-b1e6-464d-ae9b-865a229f360f/1302ef45-7795-465f-b7a5-eda723613d66/IMG_20250328_011649.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662LBM7H5A%2F20260703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260703T062940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJIMEYCIQCi1md2kJLsW6G%2BX5qQijv2nH65rknjmHgsrrRlPT7g%2FQIhANnsW5CIk%2FWi0%2B7OdXqxuDwGOBAAMPHB%2BIxAREIuwQWvKv8DCAcQABoMNjM3NDIzMTgzODA1IgwUQi0XSkLMYezuGR0q3AO3jjJfUsf4f8mKK%2BzrR3Z87kNiipwuUWhCgMqeWyFTtxy8hU%2F2%2BPGpVwLocjOHZLUCVytLWkr8R5w9L5LNQVBMMzkrPhQZgjHoGgW5v%2FE7OoF7Kz7qR4ujnAOOAoYCD%2FlC9UtXrEQ3kb8uDSroCa44hsU1CQTGs0kcs97EbeKBsLgKahp1Xe01%2BG%2F3J9OhmGmbrxDOxjqDEaR9STsbotvV3T9e0VbZAz1njzPJitjo4m6vODNReu3SG%2F3dkz7tteSLnur%2Fb59qvq%2FrI4Aofffjlluqix5XGBpC95315j2%2FYs3M%2FT6Mqd8HH3eyfhE7ZKkkp2FgmLy9xooJE3Rxf3Fe4%2B4uu8%2B1iPqkFnBsUyi9lPKbDFcWmwbxpH3WrRp4i7MV0y4eAZyhaV9u8gN8sXpuSuluW%2FbwFfQY4p65nckZuP26BhOPaPq3jJOUtf06BHPoQc%2FwHIYi9e7xjDHlYFHVfQGXzDqRBqEe%2BnzpOV74qrSLD%2FMO%2Bk7kFFVUEEBOHuMH8yDupDov8nG0y2gS8H%2BSMcahfZVLvmUctdF9Q4y0zp3JaBD0d25ryBckS4OAKQAI2hD8%2BWdBJiB4XurGjhu9f3MgosF5WzF4GcGA%2F7%2BJE1RSME2I2K7mvmQdATCRlJ3SBjqkAWvi5dEjwIquQJdtzAIWHinfNG2R%2B78wejUbP4mB0mCJlCO6G9wUdqZMzZlhlZCnX1UCFDKjjYbU5TsRA9IGIze7oM%2FKEpzooFKsivRdCgjmAHf1wNqxJW9L1EuA6%2BzemJc3c%2B%2B%2BRWJlMjxxL1NrotS2g71E4lsMwMXoGi7rFZZnkWL2qMb6G2GMMiehKRvdP6I6hRsoNJtWIhn6ocoS%2FdflrwGQ&X-Amz-Signature=29314f1bb38a1aaa82bf39bbf81eb7dcaff8495754d6a6ac477db6da452c8a16&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-07-03T07:29:40.899Z"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ナイトケア手袋",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ナイトケア手袋",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1c359857726b80d98c46cb74364f5a4f",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ac59857-726b-8159-ab07-c1510d2124e4",
+    "created_time": "2025-03-04T17:29:00.000Z",
+    "last_edited_time": "2025-03-04T17:30:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "4b87c726-a480-48b6-9279-f4978cc7deec"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1ac59857-726b-805b-a092-ede75bf5996a"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4977766802024",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4977766802024",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 138
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ac59857-726b-80d9-a162-ea2fbb24e476"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 138
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-04T17:27:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "side1.jpg",
+            "type": "file",
+            "file": {
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/e0abc2c8-b1e6-464d-ae9b-865a229f360f/66b8313b-5a08-4af2-8616-58c8c8049d5e/side1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB4662LBM7H5A%2F20260703%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20260703T062940Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLXdlc3QtMiJIMEYCIQCi1md2kJLsW6G%2BX5qQijv2nH65rknjmHgsrrRlPT7g%2FQIhANnsW5CIk%2FWi0%2B7OdXqxuDwGOBAAMPHB%2BIxAREIuwQWvKv8DCAcQABoMNjM3NDIzMTgzODA1IgwUQi0XSkLMYezuGR0q3AO3jjJfUsf4f8mKK%2BzrR3Z87kNiipwuUWhCgMqeWyFTtxy8hU%2F2%2BPGpVwLocjOHZLUCVytLWkr8R5w9L5LNQVBMMzkrPhQZgjHoGgW5v%2FE7OoF7Kz7qR4ujnAOOAoYCD%2FlC9UtXrEQ3kb8uDSroCa44hsU1CQTGs0kcs97EbeKBsLgKahp1Xe01%2BG%2F3J9OhmGmbrxDOxjqDEaR9STsbotvV3T9e0VbZAz1njzPJitjo4m6vODNReu3SG%2F3dkz7tteSLnur%2Fb59qvq%2FrI4Aofffjlluqix5XGBpC95315j2%2FYs3M%2FT6Mqd8HH3eyfhE7ZKkkp2FgmLy9xooJE3Rxf3Fe4%2B4uu8%2B1iPqkFnBsUyi9lPKbDFcWmwbxpH3WrRp4i7MV0y4eAZyhaV9u8gN8sXpuSuluW%2FbwFfQY4p65nckZuP26BhOPaPq3jJOUtf06BHPoQc%2FwHIYi9e7xjDHlYFHVfQGXzDqRBqEe%2BnzpOV74qrSLD%2FMO%2Bk7kFFVUEEBOHuMH8yDupDov8nG0y2gS8H%2BSMcahfZVLvmUctdF9Q4y0zp3JaBD0d25ryBckS4OAKQAI2hD8%2BWdBJiB4XurGjhu9f3MgosF5WzF4GcGA%2F7%2BJE1RSME2I2K7mvmQdATCRlJ3SBjqkAWvi5dEjwIquQJdtzAIWHinfNG2R%2B78wejUbP4mB0mCJlCO6G9wUdqZMzZlhlZCnX1UCFDKjjYbU5TsRA9IGIze7oM%2FKEpzooFKsivRdCgjmAHf1wNqxJW9L1EuA6%2BzemJc3c%2B%2B%2BRWJlMjxxL1NrotS2g71E4lsMwMXoGi7rFZZnkWL2qMb6G2GMMiehKRvdP6I6hRsoNJtWIhn6ocoS%2FdflrwGQ&X-Amz-Signature=e5f61b10a563d53ee09ac159879331b428bfc18ac42084ae7ffade64bfd75b2d&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+              "expiry_time": "2026-07-03T07:29:40.899Z"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "PT-P910BT",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "PT-P910BT",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/PT-P910BT-1ac59857726b8159ab07c1510d2124e4",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-817a-b330-c0a311eedb1b",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205100898",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205100898",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 85
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-818a-a289-ef6d3f725725"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 225
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/1lweor9h35yc3oc2k4hwm/_011.jpg?rlkey=ingt4i0kt47atxqnpy446udv0&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/1lweor9h35yc3oc2k4hwm/_011.jpg?rlkey=ingt4i0kt47atxqnpy446udv0&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 319
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレール 収納用手袋 Mサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレール 収納用手袋 Mサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/M-1ab59857726b817ab330c0a311eedb1b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8174-84c0-d75de462be08",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8162-bc5d-ebb0f37baab8"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 85
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81f3-8117-ed31c37c9438"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 230
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/23z6myn6zza6wci3ggkfh/_010.webp?rlkey=m6ir5civvoubrm4caaezkpmhr&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/23z6myn6zza6wci3ggkfh/_010.webp?rlkey=m6ir5civvoubrm4caaezkpmhr&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "P-80M",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "P-80M",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/P-80M-1ab59857726b817484c0d75de462be08",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-81b0-bdcd-c7e19f32bdcf",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8165-80ca-c9179914bc26"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4972820000000",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4972820000000",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 190
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-814d-a8e6-dd064767d14b"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 21
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/6ndq290zfs6ro6s6b6dbb/_009.jpg?rlkey=y8ev3coy7d3ecunmclzqgc0c3&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/6ndq290zfs6ro6s6b6dbb/_009.jpg?rlkey=y8ev3coy7d3ecunmclzqgc0c3&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 330
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "センサーライトバータイプ電球色",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "センサーライトバータイプ電球色",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b81b0bdcdc7e19f32bdcf",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8187-bfc4-c70bf4994e7c",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1ab59857-726b-81c5-a7b5-efb21adb50e7"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81a6-b271-db63ddfdf65d"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": []
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 3630
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ドローアラインブックスタンド",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ドローアラインブックスタンド",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b8187bfc4c70bf4994e7c",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-818b-a826-f5bce106f21b",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8118-a32b-c9752b4b33ae"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 10
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8185-a526-e244ce6bf727"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 10
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/l62nl8556acsw7qont4ae/_008.jpg?rlkey=d7pogtrv0rs8l8dzarj01ik1m&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/l62nl8556acsw7qont4ae/_008.jpg?rlkey=d7pogtrv0rs8l8dzarj01ik1m&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "フィギュア用固定シール30P",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "フィギュア用固定シール30P",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/30P-1ab59857726b818ba826f5bce106f21b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-81f0-b98a-dee0b4cc5f29",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1ab59857-726b-81c5-a7b5-efb21adb50e7"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-814e-8ccc-f9b7e5ea53b3"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": []
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "針穴を開けない！壁紙に貼れる 壁紙用フック",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "針穴を開けない！壁紙に貼れる 壁紙用フック",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b81f0b98adee0b4cc5f29",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-816a-8540-c1f6535c2232",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8168-a7a0-d613a057390a"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 80
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-815a-ab1b-f035c8ec684e"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 230
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/zc5nzvxts7laz5eve9ziq/_007.webp?rlkey=hp2w3vm7ka9sn3xkfrj422mje&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/zc5nzvxts7laz5eve9ziq/_007.webp?rlkey=hp2w3vm7ka9sn3xkfrj422mje&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "おやすみ手袋",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "おやすみ手袋",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b816a8540c1f6535c2232",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8132-a938-d7a5ef850346",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205100904",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205100904",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 95
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81b9-ad41-d52833e8dae6"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 235
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/l5p7580425cz3apmva9xi/_006.jpg?rlkey=51wau7a57vleuypf3y3t9lam4&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/l5p7580425cz3apmva9xi/_006.jpg?rlkey=51wau7a57vleuypf3y3t9lam4&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 319
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレール 収納用手袋 Lサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレール 収納用手袋 Lサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/L-1ab59857726b8132a938d7a5ef850346",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-817c-a586-e7005aae2a71",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8180-b9aa-ff0c35199cc5"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4905596463283",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4905596463283",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 77
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81e6-9c6b-e327881de8ac"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 137
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/kpmpod0cq8vk2gjv5978i/_005.jpg?rlkey=dtasnbgqkr3lu07gunhw0zmo9&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/kpmpod0cq8vk2gjv5978i/_005.jpg?rlkey=dtasnbgqkr3lu07gunhw0zmo9&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "バスケット用仕切りL",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "バスケット用仕切りL",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/L-1ab59857726b817ca586e7005aae2a71",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-817c-85ff-cfa5c754f8c0",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8160-8084-e3c4d4467666"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 90
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ae-9c8a-e9923ae9a373"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 130
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/cjcyy67hh47k19u9hz7wq/_004.jpg?rlkey=dttuj2wdbut7f8llgusv9uqgi&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/cjcyy67hh47k19u9hz7wq/_004.jpg?rlkey=dttuj2wdbut7f8llgusv9uqgi&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 110
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ＰＥＴ容器（ハンドル付、８００ｍＬ、ナンバー）",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ＰＥＴ容器（ハンドル付、８００ｍＬ、ナンバー）",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b817c85ffcfa5c754f8c0",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8142-9b10-dcce0b4f438f",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8126-ac26-cdf8820ae32c"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 57
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8175-9f66-d2078bc486e4"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 88
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/2rtq1fjq7i4ufv1qt0ql2/_003.jpg?rlkey=gpsxdyii3cnhfl91tewby3kw0&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/2rtq1fjq7i4ufv1qt0ql2/_003.jpg?rlkey=gpsxdyii3cnhfl91tewby3kw0&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 150
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "アクリルペンスタンド",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "アクリルペンスタンド",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b81429b10dcce0b4f438f",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8149-91a4-c6e89835af96",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-81a7-894b-ecb4e6db4155"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 360
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-812d-bd71-ef81caeb77ac"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 560
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/qa6ww0gmn5o32y5ivufpx/_002.png?rlkey=xk95tcmccwqlj9750lj2keodo&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/qa6ww0gmn5o32y5ivufpx/_002.png?rlkey=xk95tcmccwqlj9750lj2keodo&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 1499
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "SKÅDIS スコーディス36x56 cm",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "SKÅDIS スコーディス36x56 cm",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/SK-DIS-36x56-cm-1ab59857726b814991a4c6e89835af96",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-81bd-9966-c8ea70bc79f1",
+    "created_time": "2025-03-03T09:53:00.000Z",
+    "last_edited_time": "2025-03-03T09:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80a2-b002-000b6679c43f",
+      "database_id": "1a959857-726b-8004-b777-f94a32632ff4"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "発売元": {
+        "id": "%3CH%5D%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-81ca-acec-d9839e399ad0"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "JANコード": {
+        "id": "%3Ehn%7C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": []
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "QeNU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 375
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "商品DB": {
+        "id": "%5EtP~",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-819c-90ce-c41c036dc76c"
+          }
+        ],
+        "has_more": false
+      },
+      "外寸縦": {
+        "id": "cjV%5B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 645
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "作成日時": {
+        "id": "gd%3Co",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "created_time",
+              "created_time": "2025-03-03T09:46:00.000Z"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "画像": {
+        "id": "hE%7D~",
+        "type": "files",
+        "files": [
+          {
+            "name": "https://dl.dropboxusercontent.com/scl/fi/p5ivyc58adl0r0dqvwe18/_001.jpg?rlkey=oinjxda646za1gbvpzyud05ji&dl=0",
+            "type": "external",
+            "external": {
+              "url": "https://dl.dropboxusercontent.com/scl/fi/p5ivyc58adl0r0dqvwe18/_001.jpg?rlkey=oinjxda646za1gbvpzyud05ji&dl=0"
+            }
+          }
+        ]
+      },
+      "商品カテゴリ": {
+        "id": "jNFs",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8024-82a9-e971073050b8"
+          }
+        ],
+        "has_more": false
+      },
+      "価格": {
+        "id": "r%40MU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 5299
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "収納ラック キャスター付き 幅38",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "収納ラック キャスター付き 幅38",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/38-1ab59857726b81bd9966c8ea70bc79f1",
+    "public_url": null,
+    "archived": false
+  }
+]

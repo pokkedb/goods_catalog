@@ -1,0 +1,2530 @@
+[
+  {
+    "object": "page",
+    "id": "32959857-726b-80e1-bc4d-c543f967a34b",
+    "created_time": "2026-03-20T06:19:00.000Z",
+    "last_edited_time": "2026-03-20T06:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80c4-96d1-000b165b7c48",
+      "database_id": "1a959857-726b-80ff-8e01-f5e9a992abb0"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "ポケット数": {
+        "id": "%3C%3EU%5D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴4概要": {
+        "id": "%3DHYi",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ファイル規格": {
+        "id": "%3EBNF",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "select",
+              "select": {
+                "id": "|ktY",
+                "name": "リング式バインダー",
+                "color": "red"
+              }
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu専用プレスお知らせ": {
+        "id": "Ay%7Dw",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "品番": {
+        "id": "ES%7C%3E",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "IRL-BDS-D",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "IRL-BDS-D",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴4": {
+        "id": "J~%7D%3C",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_特徴3": {
+        "id": "K%3F%5Dj",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "JANコード": {
+        "id": "LC%7B%7D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205299271",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205299271",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "バインダー＆ファイル": {
+        "id": "RDOm",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "32959857-726b-80b8-93cd-fbd694839ffd"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴3概要": {
+        "id": "Tyen",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "外寸縦": {
+        "id": "UJhN",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 330
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "_rM%3D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 300
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "参考URL": {
+        "id": "%60Rj%3C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "url",
+              "url": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1": {
+        "id": "aEdJ",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_CONTENTS": {
+        "id": "a%5DEE",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "ポケット内寸横": {
+        "id": "hUTu",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売日": {
+        "id": "kvcx",
+        "type": "date",
+        "date": null
+      },
+      "irelu_特徴5": {
+        "id": "lDx%3D",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ポケット内寸縦": {
+        "id": "ojtU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴2": {
+        "id": "px%7Bh",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "商品DB": {
+        "id": "q%7Ccp",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "32959857-726b-806d-b960-db31bc0ed649"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴2概要": {
+        "id": "rrNl",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "背幅": {
+        "id": "s%40DX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 40
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売元": {
+        "id": "w%60G%7B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "価格": {
+        "id": "we%5C%60",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 891
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1概要": {
+        "id": "yt%7Cy",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_特徴5概要": {
+        "id": "z%3D%7Dk",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールバインダースリム ブラック",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールバインダースリム ブラック",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/32959857726b80e1bc4dc543f967a34b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "32959857-726b-804b-90f2-e0a8c063a41a",
+    "created_time": "2026-03-20T03:40:00.000Z",
+    "last_edited_time": "2026-03-20T07:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80c4-96d1-000b165b7c48",
+      "database_id": "1a959857-726b-80ff-8e01-f5e9a992abb0"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "ポケット数": {
+        "id": "%3C%3EU%5D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴4概要": {
+        "id": "%3DHYi",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "装飾を抑えたホワイト・ブラックの2色展開はそのまま。スリムになった分、棚に複数冊並べたときの統一感がより際立ち、コレクションをインテリアとして楽しめます。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "装飾を抑えたホワイト・ブラックの2色展開はそのまま。スリムになった分、棚に複数冊並べたときの統一感がより際立ち、コレクションをインテリアとして楽しめます。",
+            "href": null
+          }
+        ]
+      },
+      "ファイル規格": {
+        "id": "%3EBNF",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "select",
+              "select": {
+                "id": "|ktY",
+                "name": "リング式バインダー",
+                "color": "red"
+              }
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu専用プレスお知らせ": {
+        "id": "Ay%7Dw",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "品番": {
+        "id": "ES%7C%3E",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "IRL-BDS-W",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "IRL-BDS-W",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴4": {
+        "id": "J~%7D%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "複数冊並べたときの見た目も美しい、シンプルデザイン",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "複数冊並べたときの見た目も美しい、シンプルデザイン",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴3": {
+        "id": "K%3F%5Dj",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールバインダーと同じA4ワイド設計・リフィル互換",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールバインダーと同じA4ワイド設計・リフィル互換",
+            "href": null
+          }
+        ]
+      },
+      "JANコード": {
+        "id": "LC%7B%7D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205299264",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205299264",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "バインダー＆ファイル": {
+        "id": "RDOm",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "32959857-726b-80cb-aa12-f4919fd15531"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴3概要": {
+        "id": "Tyen",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "スリムになっても、A4ワイドサイズのD型4穴金具はそのまま。既存のイレールバインダーリフィル・PVCリフィルはもちろん、各社のA4ワイドリフィルもそのまま使えます。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "スリムになっても、A4ワイドサイズのD型4穴金具はそのまま。既存のイレールバインダーリフィル・PVCリフィルはもちろん、各社のA4ワイドリフィルもそのまま使えます。",
+            "href": null
+          }
+        ]
+      },
+      "外寸縦": {
+        "id": "UJhN",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 330
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "_rM%3D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 300
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "参考URL": {
+        "id": "%60Rj%3C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "url",
+              "url": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1": {
+        "id": "aEdJ",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "作品・ジャンルごとに分けやすい、42mmのスリム背幅",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "作品・ジャンルごとに分けやすい、42mmのスリム背幅",
+            "href": null
+          }
+        ]
+      },
+      "irelu_CONTENTS": {
+        "id": "a%5DEE",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "ポケット内寸横": {
+        "id": "hUTu",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売日": {
+        "id": "kvcx",
+        "type": "date",
+        "date": null
+      },
+      "irelu_特徴5": {
+        "id": "lDx%3D",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": " シールやノベルティ、普段使いの書類まで。A4バインダーとしても使える",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " シールやノベルティ、普段使いの書類まで。A4バインダーとしても使える",
+            "href": null
+          }
+        ]
+      },
+      "ポケット内寸縦": {
+        "id": "ojtU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴2": {
+        "id": "px%7Bh",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "グッズの種類別に整理する「分類収納」がしやすい",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "グッズの種類別に整理する「分類収納」がしやすい",
+            "href": null
+          }
+        ]
+      },
+      "商品DB": {
+        "id": "q%7Ccp",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "32959857-726b-8031-beb4-f254f27f555d"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴2概要": {
+        "id": "rrNl",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「トレカはこのバインダー」「アクスタはこのバインダー」というように、グッズ種類ごとに一冊ずつ分けて管理するのに最適なサイズ感。スリムだから複数冊並べてもすっきり収まります。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「トレカはこのバインダー」「アクスタはこのバインダー」というように、グッズ種類ごとに一冊ずつ分けて管理するのに最適なサイズ感。スリムだから複数冊並べてもすっきり収まります。",
+            "href": null
+          }
+        ]
+      },
+      "背幅": {
+        "id": "s%40DX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 40
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売元": {
+        "id": "w%60G%7B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "価格": {
+        "id": "we%5C%60",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 891
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1概要": {
+        "id": "yt%7Cy",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "背幅60mmの標準バインダーより約2cm薄くなったことで、1ジャンル・1作品単位でバインダーを分けて並べても棚のスペースを圧迫しにくい。「まとめて一冊」だけじゃない、分けて管理するコレクションスタイルに対応しました。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "背幅60mmの標準バインダーより約2cm薄くなったことで、1ジャンル・1作品単位でバインダーを分けて並べても棚のスペースを圧迫しにくい。「まとめて一冊」だけじゃない、分けて管理するコレクションスタイルに対応しました。",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴5概要": {
+        "id": "z%3D%7Dk",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "グッズ収納に特化した標準バインダーと異なり、スリムタイプは通常のA4バインダーとしても活躍。集めているシールの整理、イベントのノベルティ保管、仕事や学校の書類管理など、幅広い用途に対応します。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "グッズ収納に特化した標準バインダーと異なり、スリムタイプは通常のA4バインダーとしても活躍。集めているシールの整理、イベントのノベルティ保管、仕事や学校の書類管理など、幅広い用途に対応します。",
+            "href": null
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールバインダースリム ホワイト",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールバインダースリム ホワイト",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/32959857726b804b90f2e0a8c063a41a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "24e59857-726b-800a-8401-debcd39dea52",
+    "created_time": "2025-08-13T04:16:00.000Z",
+    "last_edited_time": "2025-08-13T04:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80c4-96d1-000b165b7c48",
+      "database_id": "1a959857-726b-80ff-8e01-f5e9a992abb0"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "ポケット数": {
+        "id": "%3C%3EU%5D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴4概要": {
+        "id": "%3DHYi",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ファイル規格": {
+        "id": "%3EBNF",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "select",
+              "select": {
+                "id": "|ktY",
+                "name": "リング式バインダー",
+                "color": "red"
+              }
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu専用プレスお知らせ": {
+        "id": "Ay%7Dw",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "品番": {
+        "id": "ES%7C%3E",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "IRL-BD-D",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "IRL-BD-D",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴4": {
+        "id": "J~%7D%3C",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_特徴3": {
+        "id": "K%3F%5Dj",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "JANコード": {
+        "id": "LC%7B%7D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205220893",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205220893",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "バインダー＆ファイル": {
+        "id": "RDOm",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "24e59857-726b-80ec-8f87-c307515cb1a1"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴3概要": {
+        "id": "Tyen",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "外寸縦": {
+        "id": "UJhN",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 330
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "_rM%3D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 300
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "参考URL": {
+        "id": "%60Rj%3C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "url",
+              "url": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1": {
+        "id": "aEdJ",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_CONTENTS": {
+        "id": "a%5DEE",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "ポケット内寸横": {
+        "id": "hUTu",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売日": {
+        "id": "kvcx",
+        "type": "date",
+        "date": null
+      },
+      "irelu_特徴5": {
+        "id": "lDx%3D",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ポケット内寸縦": {
+        "id": "ojtU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴2": {
+        "id": "px%7Bh",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "商品DB": {
+        "id": "q%7Ccp",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "24e59857-726b-8067-9588-d9ad661e4712"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴2概要": {
+        "id": "rrNl",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "背幅": {
+        "id": "s%40DX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 60
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売元": {
+        "id": "w%60G%7B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "価格": {
+        "id": "we%5C%60",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 990
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1概要": {
+        "id": "yt%7Cy",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_特徴5概要": {
+        "id": "z%3D%7Dk",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールバインダー ブラック",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールバインダー ブラック",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/24e59857726b800a8401debcd39dea52",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "24e59857-726b-806c-b651-dbdae71becf0",
+    "created_time": "2025-08-13T04:15:00.000Z",
+    "last_edited_time": "2025-08-13T04:16:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80c4-96d1-000b165b7c48",
+      "database_id": "1a959857-726b-80ff-8e01-f5e9a992abb0"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "ポケット数": {
+        "id": "%3C%3EU%5D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴4概要": {
+        "id": "%3DHYi",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ファイル規格": {
+        "id": "%3EBNF",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "select",
+              "select": {
+                "id": "|ktY",
+                "name": "リング式バインダー",
+                "color": "red"
+              }
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu専用プレスお知らせ": {
+        "id": "Ay%7Dw",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "品番": {
+        "id": "ES%7C%3E",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "IRL-AL-D",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "IRL-AL-D",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴4": {
+        "id": "J~%7D%3C",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_特徴3": {
+        "id": "K%3F%5Dj",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "JANコード": {
+        "id": "LC%7B%7D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205220909",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205220909",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "バインダー＆ファイル": {
+        "id": "RDOm",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "24e59857-726b-8013-bd91-f6dd8d844140"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴3概要": {
+        "id": "Tyen",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "外寸縦": {
+        "id": "UJhN",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 310
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "_rM%3D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 350
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "参考URL": {
+        "id": "%60Rj%3C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "url",
+              "url": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1": {
+        "id": "aEdJ",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_CONTENTS": {
+        "id": "a%5DEE",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "ポケット内寸横": {
+        "id": "hUTu",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売日": {
+        "id": "kvcx",
+        "type": "date",
+        "date": null
+      },
+      "irelu_特徴5": {
+        "id": "lDx%3D",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ポケット内寸縦": {
+        "id": "ojtU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴2": {
+        "id": "px%7Bh",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "商品DB": {
+        "id": "q%7Ccp",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "24e59857-726b-8031-bc6d-d788a88d6c9a"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴2概要": {
+        "id": "rrNl",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "背幅": {
+        "id": "s%40DX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 48
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売元": {
+        "id": "w%60G%7B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "価格": {
+        "id": "we%5C%60",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 1650
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1概要": {
+        "id": "yt%7Cy",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "irelu_特徴5概要": {
+        "id": "z%3D%7Dk",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールアルバム ブラック",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールアルバム ブラック",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/24e59857726b806cb651dbdae71becf0",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ac59857-726b-8012-964a-c2ff4216daf0",
+    "created_time": "2025-03-04T08:15:00.000Z",
+    "last_edited_time": "2025-03-15T00:47:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80c4-96d1-000b165b7c48",
+      "database_id": "1a959857-726b-80ff-8e01-f5e9a992abb0"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "ポケット数": {
+        "id": "%3C%3EU%5D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴4概要": {
+        "id": "%3DHYi",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "本体カラーはこだわりの白。収納した写真やコレクションを引き立てるために、アルバム自体はあくまで脇役としてシンプルにデザインされています。装飾を控えたことで、インテリアにも自然に馴染み、どんな空間でも使いやすい仕上がりになっています。\n※「イレールアルバム」は、A4サイズより高さも奥行きも大きく、横:350mm×縦:310mmのサイズとなっています。本棚や棚にしまうことを考えている方は、事前に収納スペースのサイズをご確認ください。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "本体カラーはこだわりの白。収納した写真やコレクションを引き立てるために、アルバム自体はあくまで脇役としてシンプルにデザインされています。装飾を控えたことで、インテリアにも自然に馴染み、どんな空間でも使いやすい仕上がりになっています。\n※「イレールアルバム」は、A4サイズより高さも奥行きも大きく、横:350mm×縦:310mmのサイズとなっています。本棚や棚にしまうことを考えている方は、事前に収納スペースのサイズをご確認ください。",
+            "href": null
+          }
+        ]
+      },
+      "ファイル規格": {
+        "id": "%3EBNF",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "select",
+              "select": {
+                "id": "|ktY",
+                "name": "リング式バインダー",
+                "color": "red"
+              }
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu専用プレスお知らせ": {
+        "id": "Ay%7Dw",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "品番": {
+        "id": "ES%7C%3E",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "IRL-AL-W",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "IRL-AL-W",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴4": {
+        "id": "J~%7D%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "インテリアに溶け込むシンプルなデザイン",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "インテリアに溶け込むシンプルなデザイン",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴3": {
+        "id": "K%3F%5Dj",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "安定した自立構造と強化された表紙",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "安定した自立構造と強化された表紙",
+            "href": null
+          }
+        ]
+      },
+      "JANコード": {
+        "id": "LC%7B%7D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205100751",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205100751",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "バインダー＆ファイル": {
+        "id": "RDOm",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8189-8b2e-e6ca818b790d"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴3概要": {
+        "id": "Tyen",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "アルバムが安定して自立できるように、厚手のPP素材を独自に開発。\nさらに、一般的な4穴バインダーが2箇所のストッパーしか持たないのに対し、イレールアルバムは4箇所にストッパーを採用しています。この構造により、多くの写真やカード類を収納しても、アルバム全体のバランスが保たれ、安定性が確保されます。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "アルバムが安定して自立できるように、厚手のPP素材を独自に開発。\nさらに、一般的な4穴バインダーが2箇所のストッパーしか持たないのに対し、イレールアルバムは4箇所にストッパーを採用しています。この構造により、多くの写真やカード類を収納しても、アルバム全体のバランスが保たれ、安定性が確保されます。",
+            "href": null
+          }
+        ]
+      },
+      "外寸縦": {
+        "id": "UJhN",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 310
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "_rM%3D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 350
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "参考URL": {
+        "id": "%60Rj%3C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "url",
+              "url": "https://irelu-products.com/products/album/"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1": {
+        "id": "aEdJ",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "写真類などの様々なグッズをまとめて収納",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "写真類などの様々なグッズをまとめて収納",
+            "href": null
+          }
+        ]
+      },
+      "irelu_CONTENTS": {
+        "id": "a%5DEE",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "ポケット内寸横": {
+        "id": "hUTu",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売日": {
+        "id": "kvcx",
+        "type": "date",
+        "date": {
+          "start": "2024-09-20",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "irelu_特徴5": {
+        "id": "lDx%3D",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ポケット内寸縦": {
+        "id": "ojtU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴2": {
+        "id": "px%7Bh",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "最大限の収納力と省スペース設計",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "最大限の収納力と省スペース設計",
+            "href": null
+          }
+        ]
+      },
+      "商品DB": {
+        "id": "q%7Ccp",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-815a-ad48-e9b120dd5b37"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴2概要": {
+        "id": "rrNl",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「イレールアルバム」は、流通しているグッズをより多く収納できる設計を目指し、A4サイズのコピー用紙より横幅が長く、正方形に近いバインダーの形状を採用。これにより、省スペースながらも高い収納力を実現しています。\n例えば、専用の「イレール アルバムリフィル 6ポケット（両面）」L判用を使用すれば、1冊に50枚のリフィルを収納でき、最大で600枚（6枚×2面×50枚）のL判写真を収納可能です。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「イレールアルバム」は、流通しているグッズをより多く収納できる設計を目指し、A4サイズのコピー用紙より横幅が長く、正方形に近いバインダーの形状を採用。これにより、省スペースながらも高い収納力を実現しています。\n例えば、専用の「イレール アルバムリフィル 6ポケット（両面）」L判用を使用すれば、1冊に50枚のリフィルを収納でき、最大で600枚（6枚×2面×50枚）のL判写真を収納可能です。",
+            "href": null
+          }
+        ]
+      },
+      "背幅": {
+        "id": "s%40DX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 50
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売元": {
+        "id": "w%60G%7B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "価格": {
+        "id": "we%5C%60",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 1650
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1概要": {
+        "id": "yt%7Cy",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "D型4穴金具を採用したイレールアルバムでは、複数種類のリフィルを自由に組み合わせることができ、お気に入りの写真やカード、色紙など、さまざまな形のコレクションを一冊にまとめられます。\n異なるサイズのアイテムを一冊にまとめられるのが、リフィル式ならではの利便性であり、イレールアルバムシリーズの特徴です。\n様々なグッズに対応するイレールアルバムリフィルシリーズ\n現在、写真を中心としたコレクションに対応する6種類のラインナップをご用意。すべてのリフィルに高透明フィルムを使用し、台紙の色には一般的な透明ではなく白を採用することでグッズを引き立てる作りをしています。\n・6ポケット（両面） L判ヨコ：片面6枚、見開きで12枚のL判写真が収納可\n・6ポケット（両面） L判タテ：片面6枚、見開きで12枚のブロマイドや縦向き判写真が収納可\n・9ポケット（両面） スクエア判用 ：片面9枚、見開きで18枚のましかく写真やコースターが収納可\n・12ポケット（両面） トレカ ：片面12枚、見開きで24枚のトレカやチェキなど小さめサイズのカードが収納可\n・2ポケット（両面） 2L判用：片面2枚、見開きで4枚の2L判写真が収納可\n・4ポケット（両面） ミニ色紙用：片面4枚、見開きで8枚のミニ色紙が収納可",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "D型4穴金具を採用したイレールアルバムでは、複数種類のリフィルを自由に組み合わせることができ、お気に入りの写真やカード、色紙など、さまざまな形のコレクションを一冊にまとめられます。\n異なるサイズのアイテムを一冊にまとめられるのが、リフィル式ならではの利便性であり、イレールアルバムシリーズの特徴です。\n様々なグッズに対応するイレールアルバムリフィルシリーズ\n現在、写真を中心としたコレクションに対応する6種類のラインナップをご用意。すべてのリフィルに高透明フィルムを使用し、台紙の色には一般的な透明ではなく白を採用することでグッズを引き立てる作りをしています。\n・6ポケット（両面） L判ヨコ：片面6枚、見開きで12枚のL判写真が収納可\n・6ポケット（両面） L判タテ：片面6枚、見開きで12枚のブロマイドや縦向き判写真が収納可\n・9ポケット（両面） スクエア判用 ：片面9枚、見開きで18枚のましかく写真やコースターが収納可\n・12ポケット（両面） トレカ ：片面12枚、見開きで24枚のトレカやチェキなど小さめサイズのカードが収納可\n・2ポケット（両面） 2L判用：片面2枚、見開きで4枚の2L判写真が収納可\n・4ポケット（両面） ミニ色紙用：片面4枚、見開きで8枚のミニ色紙が収納可",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴5概要": {
+        "id": "z%3D%7Dk",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールアルバム",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールアルバム",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ac59857726b8012964ac2ff4216daf0",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ac59857-726b-8072-a45d-f93287289b06",
+    "created_time": "2025-03-04T08:14:00.000Z",
+    "last_edited_time": "2025-03-15T00:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-80c4-96d1-000b165b7c48",
+      "database_id": "1a959857-726b-80ff-8e01-f5e9a992abb0"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "ポケット数": {
+        "id": "%3C%3EU%5D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴4概要": {
+        "id": "%3DHYi",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "本体カラーはこだわりの白。収納したアイテムを引き立てるために、バインダー自体はあくまで脇役としてシンプルにデザインされています。装飾を控えたことで、インテリアにも自然に馴染み、どんな空間でも使いやすい仕上がりになっています。\n※「イレールバインダー」は、A4サイズより高さも奥行きも大きく、横:300mm×縦:330mmのサイズとなっています。本棚や棚にしまうことを考えている方は、事前に収納スペースのサイズをご確認ください。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "本体カラーはこだわりの白。収納したアイテムを引き立てるために、バインダー自体はあくまで脇役としてシンプルにデザインされています。装飾を控えたことで、インテリアにも自然に馴染み、どんな空間でも使いやすい仕上がりになっています。\n※「イレールバインダー」は、A4サイズより高さも奥行きも大きく、横:300mm×縦:330mmのサイズとなっています。本棚や棚にしまうことを考えている方は、事前に収納スペースのサイズをご確認ください。",
+            "href": null
+          }
+        ]
+      },
+      "ファイル規格": {
+        "id": "%3EBNF",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "select",
+              "select": {
+                "id": "|ktY",
+                "name": "リング式バインダー",
+                "color": "red"
+              }
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu専用プレスお知らせ": {
+        "id": "Ay%7Dw",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "品番": {
+        "id": "ES%7C%3E",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "IRL-BD-W",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "IRL-BD-W",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴4": {
+        "id": "J~%7D%3C",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "インテリアに溶け込むシンプルなデザイン",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "インテリアに溶け込むシンプルなデザイン",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴3": {
+        "id": "K%3F%5Dj",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "安定した自立構造と強化された表紙",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "安定した自立構造と強化された表紙",
+            "href": null
+          }
+        ]
+      },
+      "JANコード": {
+        "id": "LC%7B%7D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "rich_text",
+              "rich_text": [
+                {
+                  "type": "text",
+                  "text": {
+                    "content": "4902205019992",
+                    "link": null
+                  },
+                  "annotations": {
+                    "bold": false,
+                    "italic": false,
+                    "strikethrough": false,
+                    "underline": false,
+                    "code": false,
+                    "color": "default"
+                  },
+                  "plain_text": "4902205019992",
+                  "href": null
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "バインダー＆ファイル": {
+        "id": "RDOm",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81d6-ae9c-d32283d6449e"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴3概要": {
+        "id": "Tyen",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "バインダーが安定して自立できるように、厚手のPP素材を独自に開発。さらに、一般的な4穴バインダーが2箇所のストッパーしか持たないのに対し、イレールバインダーは4箇所にストッパーを採用しています。\nこの構造により、多くのグッズを収納しても、バインダー全体のバランスが保たれ、500枚のコピー用紙を収納しても自立する安定性を持っています。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "バインダーが安定して自立できるように、厚手のPP素材を独自に開発。さらに、一般的な4穴バインダーが2箇所のストッパーしか持たないのに対し、イレールバインダーは4箇所にストッパーを採用しています。\nこの構造により、多くのグッズを収納しても、バインダー全体のバランスが保たれ、500枚のコピー用紙を収納しても自立する安定性を持っています。",
+            "href": null
+          }
+        ]
+      },
+      "外寸縦": {
+        "id": "UJhN",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 330
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "外寸横": {
+        "id": "_rM%3D",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 300
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "参考URL": {
+        "id": "%60Rj%3C",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "url",
+              "url": "https://irelu-products.com/products/binder/"
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1": {
+        "id": "aEdJ",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "増え続けるグッズを一つにまとめる",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "増え続けるグッズを一つにまとめる",
+            "href": null
+          }
+        ]
+      },
+      "irelu_CONTENTS": {
+        "id": "a%5DEE",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "ポケット内寸横": {
+        "id": "hUTu",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売日": {
+        "id": "kvcx",
+        "type": "date",
+        "date": {
+          "start": "2024-09-20",
+          "end": null,
+          "time_zone": null
+        }
+      },
+      "irelu_特徴5": {
+        "id": "lDx%3D",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "ポケット内寸縦": {
+        "id": "ojtU",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": null
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴2": {
+        "id": "px%7Bh",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "各社から発売されているリフィルとの高い互換性",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "各社から発売されているリフィルとの高い互換性",
+            "href": null
+          }
+        ]
+      },
+      "商品DB": {
+        "id": "q%7Ccp",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-810b-b712-d8751b166494"
+          }
+        ],
+        "has_more": false
+      },
+      "irelu_特徴2概要": {
+        "id": "rrNl",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A4サイズやA4変形リフィルにも対応しており、すでにA4ワイドサイズのバインダーシリーズをお使いの方は、現在お使いのリフィルをそのまま移行することが可能です。（※一部、入らないリフィル商品もあります）\nアクスタの収納に最適な「イレール PVCリフィル」シリーズ\n現在、イレールバインダー用のリフィルとして、アクリルスタンド（アクスタ）の収納に最適な3種類のイレールPVCリフィルシリーズをご用意。柔らかいビニール素材であるPVCを使用しているためアクスタを傷つけず、白台紙のおかげでアクスタが引き立ち、美しく保管できます。\n・PVCリフィル2ポケット：A5サイズ（148mm×210mm）以内のアクスタを収納可\n・PVCリフィル3ポケット：高さ20cm以内、横幅10cm以内のアクスタを収納可\n・PVCリフィル4ポケット：ポストカードサイズ以内のアクスタを収納可",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A4サイズやA4変形リフィルにも対応しており、すでにA4ワイドサイズのバインダーシリーズをお使いの方は、現在お使いのリフィルをそのまま移行することが可能です。（※一部、入らないリフィル商品もあります）\nアクスタの収納に最適な「イレール PVCリフィル」シリーズ\n現在、イレールバインダー用のリフィルとして、アクリルスタンド（アクスタ）の収納に最適な3種類のイレールPVCリフィルシリーズをご用意。柔らかいビニール素材であるPVCを使用しているためアクスタを傷つけず、白台紙のおかげでアクスタが引き立ち、美しく保管できます。\n・PVCリフィル2ポケット：A5サイズ（148mm×210mm）以内のアクスタを収納可\n・PVCリフィル3ポケット：高さ20cm以内、横幅10cm以内のアクスタを収納可\n・PVCリフィル4ポケット：ポストカードサイズ以内のアクスタを収納可",
+            "href": null
+          }
+        ]
+      },
+      "背幅": {
+        "id": "s%40DX",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 60
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "発売元": {
+        "id": "w%60G%7B",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "relation",
+              "relation": [
+                {
+                  "id": "1a959857-726b-8159-bc44-dcc2bb253716"
+                }
+              ]
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "価格": {
+        "id": "we%5C%60",
+        "type": "rollup",
+        "rollup": {
+          "type": "array",
+          "array": [
+            {
+              "type": "number",
+              "number": 990
+            }
+          ],
+          "function": "show_original"
+        }
+      },
+      "irelu_特徴1概要": {
+        "id": "yt%7Cy",
+        "type": "rich_text",
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "「イレールバインダー」は、流通しているグッズをより多く収納できる設計を目指し、大きなD型4穴金具を採用し、A4ワイドサイズの形状を採用しています。\n多くのリフィルを収納できるイレールバインダーでは、複数種類のリフィルを自由に組み合わせることができ、カード類から厚みのあるアクスタまで、さまざまな形のコレクションを一冊にまとめることができます。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "「イレールバインダー」は、流通しているグッズをより多く収納できる設計を目指し、大きなD型4穴金具を採用し、A4ワイドサイズの形状を採用しています。\n多くのリフィルを収納できるイレールバインダーでは、複数種類のリフィルを自由に組み合わせることができ、カード類から厚みのあるアクスタまで、さまざまな形のコレクションを一冊にまとめることができます。",
+            "href": null
+          }
+        ]
+      },
+      "irelu_特徴5概要": {
+        "id": "z%3D%7Dk",
+        "type": "rich_text",
+        "rich_text": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "イレールバインダー",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "イレールバインダー",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ac59857726b8072a45df93287289b06",
+    "public_url": null,
+    "archived": false
+  }
+]

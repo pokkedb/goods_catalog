@@ -1,0 +1,6 @@
+notion-client
+requests
+jinja2
+gspread
+google-auth
+python-dotenv

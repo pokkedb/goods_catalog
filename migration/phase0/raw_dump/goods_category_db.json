@@ -1,0 +1,4359 @@
+[
+  {
+    "object": "page",
+    "id": "32659857-726b-8010-bc75-eedc8b3e6403",
+    "created_time": "2026-03-17T13:40:00.000Z",
+    "last_edited_time": "2026-03-17T13:41:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "2b959857-726b-810f-acbc-f8f73c0926d6"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@文庫本サイズ(縦148mm 横105mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 148
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "32659857-726b-8010-bc75-eedc8b3e6403"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 105
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "文庫本サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "文庫本サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/32659857726b8010bc75eedc8b3e6403",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "26c59857-726b-80e1-80f0-f285ebbd88c1",
+    "created_time": "2025-09-12T08:59:00.000Z",
+    "last_edited_time": "2025-09-12T09:01:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "26c59857-726b-8009-bd90-cadacaa8e41c"
+          },
+          {
+            "id": "26f59857-726b-8030-9bc2-d10396fdedbc"
+          },
+          {
+            "id": "2b959857-726b-8111-8871-e7a2dbf512fd"
+          },
+          {
+            "id": "2b559857-726b-81d4-be93-f55b264cb8c1"
+          },
+          {
+            "id": "32959857-726b-806b-8e2c-d96f22c8ff5c"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@A5サイズ(縦210mm 横148mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 210
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "26c59857-726b-80e1-80f0-f285ebbd88c1"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 148
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A5サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A5サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/A5-26c59857726b80e180f0f285ebbd88c1",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80f4-999c-ff1529437e56",
+    "created_time": "2025-03-03T11:52:00.000Z",
+    "last_edited_time": "2025-03-03T11:53:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-811f-8232-d0fce548e978"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@A4サイズ(縦297mm 横210mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 297
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80f4-999c-ff1529437e56"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 210
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A4サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A4サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/A4-1ab59857726b80f4999cff1529437e56",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8067-af77-e92280b42dba",
+    "created_time": "2025-03-03T11:52:00.000Z",
+    "last_edited_time": "2025-03-03T11:52:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8109-8205-d743907e0fce"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@54mm缶バッジサイズ(縦54mm 横54mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 54
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8067-af77-e92280b42dba"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 54
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "54mm缶バッジサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "54mm缶バッジサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/54mm-1ab59857726b8067af77e92280b42dba",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8018-b892-d62ed9be9a0e",
+    "created_time": "2025-03-03T11:51:00.000Z",
+    "last_edited_time": "2025-03-03T11:51:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-814e-a168-fe8b4fe049bd"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@65mm缶バッジサイズ(縦65mm 横65mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 65
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8018-b892-d62ed9be9a0e"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 65
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "65mm缶バッジサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "65mm缶バッジサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/65mm-1ab59857726b8018b892d62ed9be9a0e",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8074-9672-f93254903b6f",
+    "created_time": "2025-03-03T11:48:00.000Z",
+    "last_edited_time": "2025-03-03T11:48:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81e4-bca7-c3481ba2b348"
+          },
+          {
+            "id": "1ab59857-726b-81d4-b8d0-e49f8c19a4c3"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@CDジャケットサイズ(縦mm 横mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": null
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8074-9672-f93254903b6f"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": null
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CDジャケットサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CDジャケットサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/CD-1ab59857726b80749672f93254903b6f",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-806b-881c-f6af249afc99",
+    "created_time": "2025-03-03T11:45:00.000Z",
+    "last_edited_time": "2025-03-03T11:45:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8144-93a6-f36d0372f974"
+          },
+          {
+            "id": "1ab59857-726b-81e4-a672-c3e431891dee"
+          },
+          {
+            "id": "1ab59857-726b-813a-b1a7-d25094e50806"
+          },
+          {
+            "id": "1ab59857-726b-81e6-a822-c5273877473a"
+          },
+          {
+            "id": "2b959857-726b-81f3-a3fd-dc59f8c72fcd"
+          },
+          {
+            "id": "2b959857-726b-8114-80d3-ea6e779cc14a"
+          },
+          {
+            "id": "2b959857-726b-81b9-86b6-cc1bb7881301"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@B8サイズ(縦mm 横mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": null
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-806b-881c-f6af249afc99"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": null
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "B8サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "B8サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/B8-1ab59857726b806b881cf6af249afc99",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8017-96bc-debe79ff9384",
+    "created_time": "2025-03-03T11:44:00.000Z",
+    "last_edited_time": "2025-03-03T11:44:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8160-ada7-f56db5af2b35"
+          },
+          {
+            "id": "20a59857-726b-81fc-bbc9-fb3203bf45a3"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@B6サイズ(縦mm 横mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": null
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8017-96bc-debe79ff9384"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": null
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "B6サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "B6サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/B6-1ab59857726b801796bcdebe79ff9384",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80b2-a6b8-eb7a279842af",
+    "created_time": "2025-03-03T11:43:00.000Z",
+    "last_edited_time": "2025-03-03T11:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-812f-955b-c05c07723bbd"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@アクリルプレートサイズ(縦mm 横mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": null
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80b2-a6b8-eb7a279842af"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": null
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "アクリルプレートサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "アクリルプレートサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b80b2a6b8eb7a279842af",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-803c-bb56-d0ff69973de9",
+    "created_time": "2025-03-03T11:43:00.000Z",
+    "last_edited_time": "2025-03-03T11:43:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81bd-a4ea-da55aea07058"
+          },
+          {
+            "id": "1ab59857-726b-818b-928a-c4069b99bca1"
+          },
+          {
+            "id": "1ab59857-726b-8193-83b1-dd7328bf1c8e"
+          },
+          {
+            "id": "2fa59857-726b-8194-b7e1-e67d89704481"
+          },
+          {
+            "id": "2fa59857-726b-8136-9204-e234881dd2d0"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@ウエハースシールサイズ,@44mm缶バッジサイズ(縦mm 横mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": null
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-803c-bb56-d0ff69973de9"
+          },
+          {
+            "id": "1ab59857-726b-80d0-9d41-f1e282838706"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": null
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ウエハースシールサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ウエハースシールサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b803cbb56d0ff69973de9",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80b9-a49e-c6555d3fc74d",
+    "created_time": "2025-03-03T11:42:00.000Z",
+    "last_edited_time": "2025-03-03T11:42:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-817a-8c98-f028c9f0fc27"
+          },
+          {
+            "id": "1ab59857-726b-8153-909e-e7eb5088c3b0"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@ロングステッカーサイズ(縦mm 横mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": null
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80b9-a49e-c6555d3fc74d"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": null
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ロングステッカーサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ロングステッカーサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b80b9a49ec6555d3fc74d",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80d0-9d41-f1e282838706",
+    "created_time": "2025-03-03T11:29:00.000Z",
+    "last_edited_time": "2025-03-03T11:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-815b-bf60-c9266862cc90"
+          },
+          {
+            "id": "32959857-726b-804c-aa43-fbd9e0dfbcff"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@44mm缶バッジサイズ,@ウエハースシールサイズ(縦44mm 横44mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 44
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80d0-9d41-f1e282838706"
+          },
+          {
+            "id": "1ab59857-726b-803c-bb56-d0ff69973de9"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 44
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "b70f66b5-b63c-4f4d-a6ab-249df5dc63e7",
+            "name": "44mm缶バッジ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "44mm缶バッジサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "44mm缶バッジサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/44mm-1ab59857726b80d09d41f1e282838706",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8059-9655-d9febe8e5447",
+    "created_time": "2025-03-03T11:28:00.000Z",
+    "last_edited_time": "2025-03-03T11:29:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81f8-a05c-e9c9b69c3e0c"
+          },
+          {
+            "id": "1ab59857-726b-81a7-9ed7-dc3bba259b18"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@50mm缶バッジサイズ(縦50mm 横50mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 50
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8059-9655-d9febe8e5447"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 50
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "e13d0c21-b24c-4484-91f6-bab0fca34470",
+            "name": "50mm缶バッジ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "50mm缶バッジサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "50mm缶バッジサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/50mm-1ab59857726b80599655d9febe8e5447",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8006-be31-fce8e928757f",
+    "created_time": "2025-03-03T11:27:00.000Z",
+    "last_edited_time": "2025-03-03T16:34:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81fd-9215-cbc33eb28b13"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@パスポート写真サイズ(縦45mm 横35mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 45
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8006-be31-fce8e928757f"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 35
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "d58e0577-bd28-47ec-bf2a-1d970379ed70",
+            "name": "パスポート写真",
+            "color": "default"
+          },
+          {
+            "id": "90d24f09-9009-4756-9bd9-8a4a94631223",
+            "name": "IDフォトサイズ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "パスポート写真サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "パスポート写真サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b8006be31fce8e928757f",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80e0-92d6-dcf89531ad6b",
+    "created_time": "2025-03-03T11:26:00.000Z",
+    "last_edited_time": "2025-03-03T11:26:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8185-ba7f-c32efe84103d"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@ミニサイズコースターサイズ(縦70mm 横70mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 70
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80e0-92d6-dcf89531ad6b"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 70
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ミニサイズコースターサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ミニサイズコースターサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b80e092d6dcf89531ad6b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8018-ba14-c27a97341705",
+    "created_time": "2025-03-03T11:24:00.000Z",
+    "last_edited_time": "2025-03-03T11:25:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-810a-b0bf-e269324ed9fb"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@Blu-rayケースサイズ(縦172mm 横136mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 172
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8018-ba14-c27a97341705"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": 12.5
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 136
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "5e7eaec8-3a4f-4e54-a73d-c8ffa0bcdef8",
+            "name": "Blu-rayケース",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Blu-rayケースサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Blu-rayケースサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/Blu-ray-1ab59857726b8018ba14c27a97341705",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-807d-b0a3-cd4de37986fb",
+    "created_time": "2025-03-03T11:22:00.000Z",
+    "last_edited_time": "2025-03-03T11:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-814f-ac06-f23521efa05b"
+          },
+          {
+            "id": "1ab59857-726b-8192-a6f4-d4f3988518aa"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@DVDトールケースサイズ(縦190mm 横135mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 190
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-807d-b0a3-cd4de37986fb"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": 12.7
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 135
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "1f12a8b9-0531-46a3-b221-0965da46143e",
+            "name": "DVDトールケース",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "DVDトールケースサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "DVDトールケースサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/DVD-1ab59857726b807db0a3cd4de37986fb",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8017-8fbb-d20fe07dd101",
+    "created_time": "2025-03-03T11:20:00.000Z",
+    "last_edited_time": "2025-03-03T11:21:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81d1-b860-e448f516b67f"
+          },
+          {
+            "id": "1ab59857-726b-816f-9a55-fde29c4a9ffc"
+          },
+          {
+            "id": "1ab59857-726b-816f-a79c-c3cac134e76f"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@CDケースサイズ(縦124mm 横142mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 124
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8017-8fbb-d20fe07dd101"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": 10.4
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 142
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "25b816e3-f5af-40e3-b408-4863b44140c4",
+            "name": "CDプラケース",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "CDケースサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "CDケースサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/CD-1ab59857726b80178fbbd20fe07dd101",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80a6-8d0a-fe5befcec256",
+    "created_time": "2025-03-03T11:16:00.000Z",
+    "last_edited_time": "2025-03-03T11:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81af-940a-f5a257ed72e9"
+          },
+          {
+            "id": "1ab59857-726b-81f9-9518-f4435c5b8fba"
+          },
+          {
+            "id": "1d259857-726b-818b-a5a3-fa5b4ec6e7e4"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@75mm缶バッジサイズ(縦75mm 横75mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 75
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80a6-8d0a-fe5befcec256"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 75
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "b2a950cc-6a26-4636-bd00-08a16688be1c",
+            "name": "75mm缶バッジ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "75mm缶バッジサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "75mm缶バッジサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/75mm-1ab59857726b80a68d0afe5befcec256",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-808a-b54b-f15246478348",
+    "created_time": "2025-03-03T11:16:00.000Z",
+    "last_edited_time": "2025-03-03T11:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81c2-a5b2-ea91193a1e7a"
+          },
+          {
+            "id": "1ab59857-726b-8187-8ff5-ea1923d422e3"
+          },
+          {
+            "id": "1ab59857-726b-81f6-b30b-cf6447e48219"
+          },
+          {
+            "id": "1ab59857-726b-8179-836d-f7bad8311b0f"
+          },
+          {
+            "id": "1ab59857-726b-8103-8594-ca8312a871ff"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@57mm缶バッジサイズ(縦57mm 横57mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 57
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-808a-b54b-f15246478348"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 57
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "0af36099-88e1-4111-94c3-9cf53f43bef9",
+            "name": "57mm缶バッジ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "57mm缶バッジサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "57mm缶バッジサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/57mm-1ab59857726b808ab54bf15246478348",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-8047-9c84-eec4e35f7dfc",
+    "created_time": "2025-03-03T11:16:00.000Z",
+    "last_edited_time": "2025-03-03T11:18:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8134-997b-ff67ba20341b"
+          },
+          {
+            "id": "1ab59857-726b-81c1-9bcc-e1200f249415"
+          },
+          {
+            "id": "1ab59857-726b-81ee-a84f-e53ae42f12c7"
+          },
+          {
+            "id": "1d259857-726b-817c-8bf2-cfbb4533f2a1"
+          },
+          {
+            "id": "2fe59857-726b-804f-be9b-ca32f3011296"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@A4クリアファイルサイズ(縦310mm 横220mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 310
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8047-9c84-eec4e35f7dfc"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 220
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "3b5db423-0002-48b6-9b8a-22fc503da297",
+            "name": "A4クリアファイル",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A4クリアファイルサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A4クリアファイルサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/A4-1ab59857726b80479c84eec4e35f7dfc",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80c0-8b5d-e7d9c22362cb",
+    "created_time": "2025-03-03T11:06:00.000Z",
+    "last_edited_time": "2025-03-03T11:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8160-9439-f0ff8bb530b1"
+          },
+          {
+            "id": "1ab59857-726b-81ec-a67c-f358888d1553"
+          },
+          {
+            "id": "1ab59857-726b-8146-848f-caca751857c8"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@トレカスモールサイズ(縦86mm 横59mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 86
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80c0-8b5d-e7d9c22362cb"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 59
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "28158f9c-5c86-415a-a5c6-415a802b89aa",
+            "name": "スモールサイズトレカ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "トレカスモールサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "トレカスモールサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b80c08b5de7d9c22362cb",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80dd-9b79-dbc652b526b8",
+    "created_time": "2025-03-03T11:03:00.000Z",
+    "last_edited_time": "2025-03-03T11:04:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8155-9b4c-e1e72771fb3a"
+          },
+          {
+            "id": "1ab59857-726b-8106-9302-e6de44efee0e"
+          },
+          {
+            "id": "2cd59857-726b-8034-a507-c8e456c97d97"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@2L版サイズ(縦178mm 横127mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 178
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80dd-9b79-dbc652b526b8"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 127
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "59289e2c-73bd-4ca0-aa9d-4bd626c29afd",
+            "name": "2L版写真",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "2L版サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "2L版サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/2L-1ab59857726b80dd9b79dbc652b526b8",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-80ff-8d06-c72b4ddfc813",
+    "created_time": "2025-03-03T11:02:00.000Z",
+    "last_edited_time": "2025-03-03T11:03:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81b1-adb0-fca72c7b3d6d"
+          },
+          {
+            "id": "1ab59857-726b-811b-9506-ccdf4d07fa1c"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@ミニ色紙サイズ(縦135mm 横120mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 135
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-80ff-8d06-c72b4ddfc813"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 120
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "25abb2ff-3240-4919-9500-af8f41ce4e48",
+            "name": "ミニ色紙",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ミニ色紙サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ミニ色紙サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b80ff8d06c72b4ddfc813",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-81db-a442-fbe4242461a1",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T11:19:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ca-820b-cb7cd8bc5307"
+          },
+          {
+            "id": "26c59857-726b-8068-8f69-db6d490fb6ae"
+          },
+          {
+            "id": "32659857-726b-811b-8ba0-de3188e61c2d"
+          },
+          {
+            "id": "2b959857-726b-8107-9389-d9afe3a3efcd"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@A5クリアファイル(縦220mm 横155mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 220
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-81db-a442-fbe4242461a1"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 155
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "7b709024-639b-4404-b8a7-1ed09afcab11",
+            "name": "A5クリアファイル",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A5クリアファイル",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A5クリアファイル",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/A5-1aa59857726b81dba442fbe4242461a1",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-819e-9e95-e44bd4cb087a",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8183-80d6-fa9a6964ff07"
+          },
+          {
+            "id": "1ab59857-726b-81c9-a660-da011da63d46"
+          },
+          {
+            "id": "1ab59857-726b-813a-8f6d-e680eba1330a"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@A6サイズ(縦148mm 横105mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 148
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-819e-9e95-e44bd4cb087a"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 105
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A6サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A6サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/A6-1aa59857726b819e9e95e44bd4cb087a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-8191-9d99-d110b4b44288",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T11:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8192-82cb-f014ac6ef733"
+          },
+          {
+            "id": "1ab59857-726b-8171-8738-e10997aa2426"
+          },
+          {
+            "id": "1ab59857-726b-81cb-b436-e7cabd820805"
+          },
+          {
+            "id": "1ab59857-726b-81af-9233-c563a08b5b5b"
+          },
+          {
+            "id": "1ab59857-726b-81e9-967d-ff19e2ff62f0"
+          },
+          {
+            "id": "1ab59857-726b-818c-a620-f9a71d21e0fa"
+          },
+          {
+            "id": "1ab59857-726b-81c9-a660-da011da63d46"
+          },
+          {
+            "id": "1d259857-726b-813d-baad-f7674d49e74b"
+          },
+          {
+            "id": "32659857-726b-81e1-81bd-c6a0a24a23fb"
+          },
+          {
+            "id": "32959857-726b-8001-92c8-fa0704c91cdf"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@ポストカードサイズ(縦148mm 横100mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 148
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8191-9d99-d110b4b44288"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 100
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "206aba6d-388b-4773-8620-237f536b8993",
+            "name": "官製はがき",
+            "color": "default"
+          },
+          {
+            "id": "8b0c52a7-c3fb-4e82-8f16-0ddaed9a4544",
+            "name": "ポストカード",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ポストカードサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ポストカードサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b81919d99d110b4b44288",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-81c9-b392-db4fd08a7572",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T11:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ad-8eee-d12f7266b8d7"
+          },
+          {
+            "id": "1ab59857-726b-81a2-b4be-fda0dcd1067e"
+          },
+          {
+            "id": "1ab59857-726b-81dc-a002-e2aac2eb4d48"
+          },
+          {
+            "id": "1ab59857-726b-8166-94e7-f9082050fe25"
+          },
+          {
+            "id": "1ab59857-726b-811f-87f0-e2e8e55e8a63"
+          },
+          {
+            "id": "1ab59857-726b-810d-84c4-f6385e811ebe"
+          },
+          {
+            "id": "1ab59857-726b-8169-9e61-ca6a282fceac"
+          },
+          {
+            "id": "1ab59857-726b-8187-baa2-cfe8806e0dc8"
+          },
+          {
+            "id": "1ab59857-726b-814c-8acc-c7b80a22535f"
+          },
+          {
+            "id": "1ab59857-726b-814e-ab7a-d6b7e9757d08"
+          },
+          {
+            "id": "1ab59857-726b-8115-9393-f536b7793ed7"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@コースターサイズ(縦90mm 横90mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 90
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-81c9-b392-db4fd08a7572"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 90
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "444a4914-78ac-4476-ae12-bf394c05ea78",
+            "name": "ましコレ",
+            "color": "default"
+          },
+          {
+            "id": "5ae62201-4641-4193-b0a9-60bc75ab3eca",
+            "name": "コラボカフェコースター",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "コースターサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "コースターサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b81c9b392db4fd08a7572",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-81d1-a6fe-e6b4977a953d",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-813b-9275-ee793ce1fa37"
+          },
+          {
+            "id": "1ab59857-726b-81cc-a3af-fcbce2849b00"
+          },
+          {
+            "id": "1ab59857-726b-816f-999e-ccbd673bbf19"
+          },
+          {
+            "id": "1ab59857-726b-81f9-9ff4-f177bd35bdab"
+          },
+          {
+            "id": "1ab59857-726b-818f-9d33-d60f2a5db486"
+          },
+          {
+            "id": "1ab59857-726b-816d-a7bc-ed8780ead47b"
+          },
+          {
+            "id": "1ab59857-726b-8106-87f2-ed17d01126f8"
+          },
+          {
+            "id": "1ab59857-726b-8172-988f-ee29e0b0f2b9"
+          },
+          {
+            "id": "1ab59857-726b-81bf-b8d7-c3b016b4a69f"
+          },
+          {
+            "id": "1ab59857-726b-8157-aaef-c5b238ae927e"
+          },
+          {
+            "id": "1ab59857-726b-81a6-9ccf-d52b3f7a6860"
+          },
+          {
+            "id": "1ab59857-726b-81f3-b33c-da3cb7c4e5ee"
+          },
+          {
+            "id": "1ab59857-726b-81ed-832e-e710988d0361"
+          },
+          {
+            "id": "26f59857-726b-802a-b1f9-c83e1ead8c52"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@B7サイズ(縦128mm 横91mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 128
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-81d1-a6fe-e6b4977a953d"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 91
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "B7サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "B7サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/B7-1aa59857726b81d1a6fee6b4977a953d",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-813e-bd5e-ec1a51855419",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8198-a2f8-cc27b18a8d87"
+          },
+          {
+            "id": "1ab59857-726b-81ad-8eee-d12f7266b8d7"
+          },
+          {
+            "id": "1ab59857-726b-81a2-b4be-fda0dcd1067e"
+          },
+          {
+            "id": "1ab59857-726b-8166-94e7-f9082050fe25"
+          },
+          {
+            "id": "1ab59857-726b-811f-87f0-e2e8e55e8a63"
+          },
+          {
+            "id": "1ab59857-726b-810d-84c4-f6385e811ebe"
+          },
+          {
+            "id": "1ab59857-726b-8169-9e61-ca6a282fceac"
+          },
+          {
+            "id": "1ab59857-726b-8187-baa2-cfe8806e0dc8"
+          },
+          {
+            "id": "1ab59857-726b-814c-8acc-c7b80a22535f"
+          },
+          {
+            "id": "1ab59857-726b-814e-ab7a-d6b7e9757d08"
+          },
+          {
+            "id": "1ab59857-726b-8115-9393-f536b7793ed7"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@スクエアフォトサイズ(縦89mm 横89mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 89
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-813e-bd5e-ec1a51855419"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 89
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "fc6d0614-f39e-4c3b-82f6-97f0abb2e83b",
+            "name": "ましかくフォト",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "スクエアフォトサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "スクエアフォトサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b813ebd5eec1a51855419",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-8125-b5c4-db7f743c3a0e",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T11:00:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ca-a6cd-ec45052dbd5d"
+          },
+          {
+            "id": "1ab59857-726b-8124-883b-f44e08548de0"
+          },
+          {
+            "id": "1ab59857-726b-816e-9cd3-ec67dbf8c47a"
+          },
+          {
+            "id": "1ab59857-726b-8119-9df8-e73b096d087d"
+          },
+          {
+            "id": "1ab59857-726b-8111-a2e9-e62e97c85fae"
+          },
+          {
+            "id": "1ab59857-726b-81ed-9e70-eabc57b094d9"
+          },
+          {
+            "id": "1ab59857-726b-81c3-932f-e17c09bc337d"
+          },
+          {
+            "id": "1ab59857-726b-817c-92a5-d1d0fc1c9847"
+          },
+          {
+            "id": "1ab59857-726b-813b-9275-ee793ce1fa37"
+          },
+          {
+            "id": "1ab59857-726b-81cc-a3af-fcbce2849b00"
+          },
+          {
+            "id": "1ab59857-726b-81ab-bfaf-d1e5b35c5ce3"
+          },
+          {
+            "id": "1ab59857-726b-81f2-b737-e50ff0842237"
+          },
+          {
+            "id": "1ab59857-726b-816f-999e-ccbd673bbf19"
+          },
+          {
+            "id": "1ab59857-726b-81f9-9ff4-f177bd35bdab"
+          },
+          {
+            "id": "1ab59857-726b-818f-9d33-d60f2a5db486"
+          },
+          {
+            "id": "1ab59857-726b-816d-a7bc-ed8780ead47b"
+          },
+          {
+            "id": "1ab59857-726b-8163-b9c7-ca6c4f6a05ca"
+          },
+          {
+            "id": "1ab59857-726b-8106-87f2-ed17d01126f8"
+          },
+          {
+            "id": "1ab59857-726b-8172-988f-ee29e0b0f2b9"
+          },
+          {
+            "id": "1ab59857-726b-81bf-b8d7-c3b016b4a69f"
+          },
+          {
+            "id": "1ab59857-726b-8157-aaef-c5b238ae927e"
+          },
+          {
+            "id": "1ab59857-726b-8147-9f11-fe9f048d5715"
+          },
+          {
+            "id": "1ab59857-726b-81a6-9ccf-d52b3f7a6860"
+          },
+          {
+            "id": "1ab59857-726b-812f-8e4e-fa5b2d40b46a"
+          },
+          {
+            "id": "1ab59857-726b-81f3-b33c-da3cb7c4e5ee"
+          }
+        ],
+        "has_more": true
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@L版サイズ(縦127mm 横89mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 127
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8125-b5c4-db7f743c3a0e"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 89
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "6a272925-c66b-4330-86ca-cfacbe166e47",
+            "name": "L版写真",
+            "color": "default"
+          },
+          {
+            "id": "a0672509-27ab-470c-901a-cd3a2d861ea1",
+            "name": "公式写真",
+            "color": "default"
+          },
+          {
+            "id": "ccf17876-c714-4467-bac3-992a1f0ce2a5",
+            "name": "ランブロ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "L版サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "L版サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/L-1aa59857726b8125b5c4db7f743c3a0e",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-81e7-b1a7-ec0c45b8cb5c",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8119-9df8-e73b096d087d"
+          },
+          {
+            "id": "1ab59857-726b-8111-a2e9-e62e97c85fae"
+          },
+          {
+            "id": "1ab59857-726b-81ed-9e70-eabc57b094d9"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@A7サイズ(縦105mm 横74mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 105
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-81e7-b1a7-ec0c45b8cb5c"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 74
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "A7サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "A7サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/A7-1aa59857726b81e7b1a7ec0c45b8cb5c",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-815a-890e-eef1a92fd858",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81b2-bf17-ef158ac345fc"
+          },
+          {
+            "id": "1ab59857-726b-8180-bd96-d5cfb3ae5f56"
+          },
+          {
+            "id": "1ab59857-726b-812a-8402-dfc4ea7f445f"
+          },
+          {
+            "id": "1ab59857-726b-817f-a804-c2d390d30299"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@アルカナカードサイズ(縦129mm 横72mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 129
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-815a-890e-eef1a92fd858"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 72
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "6fd1f09f-926f-42ca-b273-0ed4962c23c2",
+            "name": "アルカナカード",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "アルカナカードサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "アルカナカードサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b815a890eeef1a92fd858",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-8118-acf5-fa6506cb2654",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T11:06:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8114-91c6-cc3e8e1913ea"
+          },
+          {
+            "id": "1ab59857-726b-81a7-abca-cc56dfdcbb39"
+          },
+          {
+            "id": "1ab59857-726b-8122-adcf-ed1899d46606"
+          },
+          {
+            "id": "1ab59857-726b-8119-b850-e22682f96507"
+          },
+          {
+            "id": "1ab59857-726b-8188-8649-e1b53a1acdd8"
+          },
+          {
+            "id": "1ab59857-726b-8115-961b-c10f9eeca351"
+          },
+          {
+            "id": "1ab59857-726b-81bc-84a9-ca082148b50b"
+          },
+          {
+            "id": "1ab59857-726b-81b3-9e34-e141d2741706"
+          },
+          {
+            "id": "1ab59857-726b-81c5-96e1-fc9bd331eff6"
+          },
+          {
+            "id": "1ab59857-726b-8104-a4c7-c3838c0b8b5c"
+          },
+          {
+            "id": "1ab59857-726b-8198-b160-dc3fbc144c7f"
+          },
+          {
+            "id": "1ab59857-726b-8103-8594-ca8312a871ff"
+          },
+          {
+            "id": "1ab59857-726b-816a-8ffe-cc74c66411cd"
+          },
+          {
+            "id": "1ab59857-726b-81d7-b14c-d07d7192c092"
+          },
+          {
+            "id": "1ab59857-726b-81a2-84c8-d838580d79d2"
+          },
+          {
+            "id": "1ab59857-726b-81bd-8ac4-d7858850b9c2"
+          },
+          {
+            "id": "1ab59857-726b-8138-b7f5-ca7538e1fb42"
+          },
+          {
+            "id": "1ab59857-726b-81fe-ab74-e47021edd8af"
+          },
+          {
+            "id": "1ab59857-726b-81a8-9d20-fbc685510706"
+          },
+          {
+            "id": "1ab59857-726b-81d5-a8fa-e5d973fd0da6"
+          },
+          {
+            "id": "1ab59857-726b-81f3-ba05-f3a1fbeee6b4"
+          },
+          {
+            "id": "1ab59857-726b-8159-a945-d444005601bd"
+          },
+          {
+            "id": "1ab59857-726b-81e1-91a9-fd72c410a9cc"
+          },
+          {
+            "id": "1ab59857-726b-8134-aa09-ec97c66f6f46"
+          },
+          {
+            "id": "1ab59857-726b-81ce-a568-d2f147ef093a"
+          }
+        ],
+        "has_more": true
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@スタンダードトレカサイズ(縦89mm 横63mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 89
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8118-acf5-fa6506cb2654"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 63
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "3aaf9aba-e4c8-4b42-8535-53d42a373e50",
+            "name": "ぱしゃこれ",
+            "color": "default"
+          },
+          {
+            "id": "5a0497c7-c7d2-434c-85ee-a940727edadc",
+            "name": "emoca",
+            "color": "default"
+          },
+          {
+            "id": "c1b7d2ac-7920-4d55-addc-115e7fef741e",
+            "name": "スタンダードトレカ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "スタンダードトレカサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "スタンダードトレカサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b8118acf5fa6506cb2654",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-8167-a9db-e5baf5bd9997",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-819a-883e-c22491eaf9c3"
+          },
+          {
+            "id": "1cf59857-726b-8125-8317-f1accf7546cf"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@ぱしゃっつサイズ(縦90mm 横64mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 90
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8167-a9db-e5baf5bd9997"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 64
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "a7daa19e-020e-44dd-928f-e0d667c53f75",
+            "name": "ぱしゃっつ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ぱしゃっつサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ぱしゃっつサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b8167a9dbe5baf5bd9997",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-8130-b834-fea9c9adf077",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@名刺サイズ(縦91mm 横55mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 91
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8130-b834-fea9c9adf077"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 55
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": []
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "名刺サイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "名刺サイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b8130b834fea9c9adf077",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1aa59857-726b-8154-bf2c-c50988ca6093",
+    "created_time": "2025-03-02T05:33:00.000Z",
+    "last_edited_time": "2025-03-03T10:59:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1aa59857-726b-804e-bdf3-000b9f1bb470",
+      "database_id": "1aa59857-726b-805c-bfb3-d74e9ff414dd"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "スリーブ＆カバー": {
+        "id": "BNzT",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-815e-9385-cb69a9041cd6"
+          },
+          {
+            "id": "1ab59857-726b-8166-917a-f5f4e92c05d5"
+          },
+          {
+            "id": "1ab59857-726b-811b-aa18-cb8ca70da5de"
+          },
+          {
+            "id": "1ab59857-726b-8174-be84-e72306de42a8"
+          },
+          {
+            "id": "1ab59857-726b-81e3-864f-de4eae1ce0ca"
+          },
+          {
+            "id": "1ab59857-726b-81ab-8896-ea0facf22f0a"
+          },
+          {
+            "id": "1ab59857-726b-819e-a2c9-f57efd2c10e6"
+          },
+          {
+            "id": "1ab59857-726b-81f9-ac2d-d6d762538548"
+          },
+          {
+            "id": "1ab59857-726b-81fc-aec5-f3d110c10deb"
+          },
+          {
+            "id": "1ab59857-726b-81a4-a209-df53ee301504"
+          },
+          {
+            "id": "1ab59857-726b-81f9-ae04-f3d05e9479ad"
+          },
+          {
+            "id": "1ab59857-726b-81fe-81bc-c71fa9383a62"
+          },
+          {
+            "id": "1ab59857-726b-8134-9260-fef2fd7faf4b"
+          },
+          {
+            "id": "1ab59857-726b-818f-b44f-ea0f47270fa1"
+          },
+          {
+            "id": "1ab59857-726b-815f-a0e9-f18414124fff"
+          },
+          {
+            "id": "1ab59857-726b-8152-94de-d01987b6a33a"
+          },
+          {
+            "id": "1ab59857-726b-81e9-b8d6-cd6c6027e1c6"
+          },
+          {
+            "id": "1ab59857-726b-818d-813d-d4000a4a6560"
+          },
+          {
+            "id": "1ab59857-726b-81ce-9e71-e44ea598038b"
+          },
+          {
+            "id": "32659857-726b-81f0-be75-e209a7aa48d7"
+          },
+          {
+            "id": "2b959857-726b-8155-8279-e3f2fece9d0c"
+          }
+        ],
+        "has_more": false
+      },
+      "グッズサイズ": {
+        "id": "Ff%7D%3D",
+        "type": "formula",
+        "formula": {
+          "type": "string",
+          "string": "@チェキサイズ(縦86mm 横54mm)"
+        }
+      },
+      "縦幅": {
+        "id": "R%3Ash",
+        "type": "number",
+        "number": 86
+      },
+      "selflink": {
+        "id": "T%5BA%7C",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1aa59857-726b-8154-bf2c-c50988ca6093"
+          }
+        ],
+        "has_more": false
+      },
+      "幅": {
+        "id": "Tmft",
+        "type": "number",
+        "number": null
+      },
+      "横幅": {
+        "id": "cEb_",
+        "type": "number",
+        "number": 54
+      },
+      "対象商品": {
+        "id": "nUp~",
+        "type": "multi_select",
+        "multi_select": [
+          {
+            "id": "e700b9c4-421b-4ce6-8af1-20fcd6cdc16a",
+            "name": "チェキ",
+            "color": "default"
+          },
+          {
+            "id": "1b01401d-367b-4c51-9fb1-26f5881a453a",
+            "name": "snapme!",
+            "color": "default"
+          },
+          {
+            "id": "3fbcc592-336c-4a52-b2e0-d7905d0899f9",
+            "name": "ムビチケ",
+            "color": "default"
+          },
+          {
+            "id": "a5aced9d-c03d-4b44-aae3-7b0623350856",
+            "name": "チェキサイズトレカ",
+            "color": "default"
+          },
+          {
+            "id": "fef674be-46c2-43b5-9535-584542a4e15e",
+            "name": "K-POPアルバムトレカ",
+            "color": "default"
+          }
+        ]
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "チェキサイズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "チェキサイズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1aa59857726b8154bf2cc50988ca6093",
+    "public_url": null,
+    "archived": false
+  }
+]

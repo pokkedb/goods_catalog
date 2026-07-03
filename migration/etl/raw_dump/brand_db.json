@@ -1,0 +1,1703 @@
+[
+  {
+    "object": "page",
+    "id": "23559857-726b-80c9-b15f-ed46143a4135",
+    "created_time": "2025-07-19T08:54:00.000Z",
+    "last_edited_time": "2025-07-19T08:54:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "23559857-726b-8025-b8cc-f4192f4e0f62"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ポケットが選べるシリーズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ポケットが選べるシリーズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/23559857726b80c9b15fed46143a4135",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1fd59857-726b-80e1-a0ff-d3090827c455",
+    "created_time": "2025-05-24T05:23:00.000Z",
+    "last_edited_time": "2025-05-24T05:23:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1fd59857-726b-80cb-8570-e474119d30f8"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "THREEPY",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "THREEPY",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/THREEPY-1fd59857726b80e1a0ffd3090827c455",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1b259857-726b-802a-ab9a-ce9ffaa27dd0",
+    "created_time": "2025-03-10T07:56:00.000Z",
+    "last_edited_time": "2025-03-10T07:56:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8112-bf7e-ee9bd90424a9"
+          },
+          {
+            "id": "26f59857-726b-8083-9325-c73ae4162aa6"
+          },
+          {
+            "id": "26f59857-726b-806e-9881-f3e3a523ba59"
+          },
+          {
+            "id": "26f59857-726b-800d-8370-db7d1699e1b2"
+          },
+          {
+            "id": "29e59857-726b-808d-82b2-e5e2db56c66e"
+          },
+          {
+            "id": "2cd59857-726b-806f-9263-e6c888480c53"
+          },
+          {
+            "id": "2cd59857-726b-8093-90dd-e620348ee7b9"
+          },
+          {
+            "id": "2db59857-726b-80fe-96b3-f1de37e47a58"
+          },
+          {
+            "id": "2fa59857-726b-80d3-88c7-d971b1e959ac"
+          },
+          {
+            "id": "2fd59857-726b-8082-bb8f-fc11a114d38b"
+          },
+          {
+            "id": "32659857-726b-807c-9a3f-f0cf5f067827"
+          },
+          {
+            "id": "32659857-726b-802d-905d-eccddbb13bf3"
+          },
+          {
+            "id": "32659857-726b-8062-ae62-ee0b502df063"
+          },
+          {
+            "id": "32659857-726b-8053-85ea-cf30334f6162"
+          },
+          {
+            "id": "32659857-726b-80a2-a781-fbff3c1e929f"
+          },
+          {
+            "id": "32659857-726b-8058-94c9-faa1fca3d005"
+          },
+          {
+            "id": "32659857-726b-8097-9845-f09a3b3ba7b8"
+          },
+          {
+            "id": "32659857-726b-809e-adbc-cae38cb6d732"
+          },
+          {
+            "id": "32659857-726b-808d-aace-fc2ceda725fa"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ダイソーオリジナル",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ダイソーオリジナル",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1b259857726b802aab9ace9ffaa27dd0",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1ab59857-726b-81de-969f-d30892f13499",
+    "created_time": "2025-03-03T09:46:00.000Z",
+    "last_edited_time": "2025-03-03T09:46:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ef-a826-e891793e177a"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "サンキューマート",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "サンキューマート",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1ab59857726b81de969fd30892f13499",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-8137-8dcc-d4132eea319a",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ca-a3a2-ed1089fc629e"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "nico and...",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "nico and...",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/nico-and-1a959857726b81378dccd4132eea319a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-81fd-816a-f63746a47c9a",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81fe-a904-c1767c8b3d2b"
+          },
+          {
+            "id": "1ab59857-726b-818b-8d75-c1e300b4346f"
+          },
+          {
+            "id": "1ab59857-726b-8118-948d-f4c5908c114f"
+          },
+          {
+            "id": "1ab59857-726b-819f-a9b9-d80f369c3d37"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "WEGO",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "WEGO",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/WEGO-1a959857726b81fd816af63746a47c9a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-8165-a096-daca2a2ca594",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81fb-a046-c7b64d73678c"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "推しサポ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "推しサポ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b8165a096daca2a2ca594",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-8176-8fcf-e25c92da86d5",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81ac-b194-c2b690244308"
+          },
+          {
+            "id": "1ab59857-726b-8191-8cd5-f8187bddbea2"
+          },
+          {
+            "id": "1ab59857-726b-81a0-ab44-f77e035ad8cd"
+          },
+          {
+            "id": "1ab59857-726b-81cd-bf33-d0bd9e2ae128"
+          },
+          {
+            "id": "1ab59857-726b-8104-a257-d7e58b22a61e"
+          },
+          {
+            "id": "1ab59857-726b-81aa-baf4-fd4758811671"
+          },
+          {
+            "id": "1ab59857-726b-816b-8385-ce0bc74cf2b2"
+          },
+          {
+            "id": "1ab59857-726b-8151-bf2c-e4f4cd2e49ac"
+          },
+          {
+            "id": "1ab59857-726b-8134-8ea2-fc9177d78f2c"
+          },
+          {
+            "id": "1ab59857-726b-8114-a0a5-c897f6590dac"
+          },
+          {
+            "id": "1ab59857-726b-8184-8f0b-d6b1d4973b76"
+          },
+          {
+            "id": "1ab59857-726b-81de-a8e7-c4fbf1aecc5a"
+          },
+          {
+            "id": "1ab59857-726b-81ec-a8fa-eea03ea095f1"
+          },
+          {
+            "id": "1ab59857-726b-8170-8b03-ef52257a26fe"
+          },
+          {
+            "id": "1ab59857-726b-81df-9c02-c897616e601a"
+          },
+          {
+            "id": "1ab59857-726b-8147-a91c-f1750ce9dd58"
+          },
+          {
+            "id": "1ab59857-726b-818d-b60e-e38a169ea84a"
+          },
+          {
+            "id": "1ab59857-726b-8184-a537-eb4f8b7bb794"
+          },
+          {
+            "id": "1ab59857-726b-812a-83af-d0e7f75a3b16"
+          },
+          {
+            "id": "1ab59857-726b-81a5-ba1e-fb6a8b8b9985"
+          },
+          {
+            "id": "1ab59857-726b-8131-80d5-daf651e8272c"
+          },
+          {
+            "id": "1ba59857-726b-8048-8b98-feea420bfab2"
+          },
+          {
+            "id": "2e759857-726b-8091-8ba2-f64600213da2"
+          },
+          {
+            "id": "37a59857-726b-8044-9129-d8f3ecc7d217"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "3COINS",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "3COINS",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/3COINS-1a959857726b81768fcfe25c92da86d5",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-813f-9dd4-ed7a1880580b",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-813a-91f3-e61228db658b"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "ヲタコレ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "ヲタコレ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b813f9dd4ed7a1880580b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-818b-bad2-f270ea6199fa",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81c3-a9bc-c4329ca7e0c5"
+          },
+          {
+            "id": "1ab59857-726b-8101-86ca-c675e27001f1"
+          },
+          {
+            "id": "1ab59857-726b-81e3-b42d-e41422f6b709"
+          },
+          {
+            "id": "1ab59857-726b-816d-b856-e7d3fb21ed38"
+          },
+          {
+            "id": "1ab59857-726b-81df-a774-d1586b630d45"
+          },
+          {
+            "id": "2fa59857-726b-8068-beeb-e4bfc16bc918"
+          },
+          {
+            "id": "1ab59857-726b-81c8-955a-dd34f9d3680e"
+          },
+          {
+            "id": "32759857-726b-8074-9b8d-ff0a868e0cc8"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "kept",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "kept",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/kept-1a959857726b818bbad2f270ea6199fa",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-81e5-b272-eb1958ba6ff6",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-815d-8025-f21f6eb6f9ba"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "natural couture",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "natural couture",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/natural-couture-1a959857726b81e5b272eb1958ba6ff6",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-8114-8bde-fa2379c9114d",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-815b-bdb6-d086374f64b0"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "my style",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "my style",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/my-style-1a959857726b81148bdefa2379c9114d",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-8157-86fd-da272d42314a",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8145-948d-e5784c58b62f"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "MONO to",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "MONO to",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/MONO-to-1a959857726b815786fdda272d42314a",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-81e3-94bf-cc44d252837e",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8110-9001-ef29e5dd87b2"
+          },
+          {
+            "id": "1ab59857-726b-81a0-af8c-e301ed0afd4d"
+          },
+          {
+            "id": "1ab59857-726b-816d-8c34-c42c3374811f"
+          },
+          {
+            "id": "1ab59857-726b-8149-aa77-cafabde31821"
+          },
+          {
+            "id": "1ab59857-726b-81eb-b31d-d65ae54ebc29"
+          },
+          {
+            "id": "1ab59857-726b-81a7-a572-c96e68df2e85"
+          },
+          {
+            "id": "1ab59857-726b-81d8-8acb-f77bda56cf00"
+          },
+          {
+            "id": "1ab59857-726b-81a5-8bc6-e457fbdcfd31"
+          },
+          {
+            "id": "1ab59857-726b-81a2-9d83-d9830023d88f"
+          },
+          {
+            "id": "1ab59857-726b-8174-b710-df8f7c3a21fc"
+          },
+          {
+            "id": "1ab59857-726b-8127-8712-fe8a7b79324b"
+          },
+          {
+            "id": "1ab59857-726b-8190-93ef-cbdf0c287446"
+          },
+          {
+            "id": "1ab59857-726b-8149-95f4-cdda38c64673"
+          },
+          {
+            "id": "1ab59857-726b-81f1-b3c8-d8605d1298e7"
+          },
+          {
+            "id": "1ab59857-726b-81e9-989c-e55e0d185708"
+          },
+          {
+            "id": "1fd59857-726b-80de-a57a-ec3e1ba3fbb7"
+          },
+          {
+            "id": "1fd59857-726b-804c-85bd-e0a82c34a520"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "コレサポ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "コレサポ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b81e394bfcc44d252837e",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-812f-9964-c87d82bbbed9",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81b2-ab72-f093f78c7a5f"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "OKINI",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "OKINI",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/OKINI-1a959857726b812f9964c87d82bbbed9",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-81e9-a866-ea29aaf8ec01",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-818f-8dc8-dc4c5fb7bef9"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "うたかた本舗",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "うたかた本舗",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b81e9a866ea29aaf8ec01",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-81ac-a62b-f9787a3a99fa",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81c1-a4e0-da99d6b7b066"
+          },
+          {
+            "id": "1ab59857-726b-8119-af9e-d052429faa0a"
+          },
+          {
+            "id": "1ab59857-726b-814b-9ebc-c0aab3804108"
+          },
+          {
+            "id": "1ab59857-726b-810a-99b6-e35e615af0d2"
+          },
+          {
+            "id": "1ab59857-726b-81c3-ad09-f9d4a7ffbcae"
+          },
+          {
+            "id": "1ab59857-726b-814d-b74a-f1400a8a20d7"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "エンジョイアイドルシリーズ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "エンジョイアイドルシリーズ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b81aca62bf9787a3a99fa",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-81fd-a821-cf495ca7d0d9",
+    "created_time": "2025-03-01T19:36:00.000Z",
+    "last_edited_time": "2025-03-01T19:36:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8159-99ba-d6ced26d2a49"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "しょうねん♪スリーブ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "しょうねん♪スリーブ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b81fda821cf495ca7d0d9",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-80fd-ba4c-f531abc232cf",
+    "created_time": "2025-03-01T16:49:00.000Z",
+    "last_edited_time": "2025-03-01T16:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81a8-9473-f71e264b04e9"
+          },
+          {
+            "id": "1ab59857-726b-816d-9b83-e6352f4b59c2"
+          },
+          {
+            "id": "1ab59857-726b-8154-9053-ce151394e5b3"
+          },
+          {
+            "id": "1ab59857-726b-8135-a735-c37f541c5ba3"
+          },
+          {
+            "id": "1ab59857-726b-81c4-afe6-df2569555d27"
+          },
+          {
+            "id": "1ab59857-726b-81ef-b971-c02bbe375daa"
+          },
+          {
+            "id": "1ab59857-726b-810b-be14-f936695a68d4"
+          },
+          {
+            "id": "1ab59857-726b-81bf-ad11-f0355ce8a6bb"
+          },
+          {
+            "id": "1ab59857-726b-81bd-bf59-f73f40426b5d"
+          },
+          {
+            "id": "1ab59857-726b-81d7-b44d-d07437a2c258"
+          },
+          {
+            "id": "1ab59857-726b-8154-8434-ce472baff4e2"
+          },
+          {
+            "id": "1ab59857-726b-816d-a19e-db5403e3ffa8"
+          },
+          {
+            "id": "1ab59857-726b-81eb-a000-f83aeee052e8"
+          },
+          {
+            "id": "1ab59857-726b-8152-ad67-fd5d37785e6d"
+          },
+          {
+            "id": "1ab59857-726b-8190-a567-dc8c56ee4586"
+          },
+          {
+            "id": "1ab59857-726b-812d-97f9-e1de52f27fd0"
+          },
+          {
+            "id": "1ab59857-726b-8163-9123-f0095554c0f3"
+          },
+          {
+            "id": "1ab59857-726b-8192-8888-c324dbbc39ad"
+          },
+          {
+            "id": "1ab59857-726b-8110-880c-f4fd8a1e207b"
+          },
+          {
+            "id": "1ab59857-726b-8147-b263-d31d1c64ea64"
+          },
+          {
+            "id": "1ab59857-726b-812c-aa4e-d7e14f21a170"
+          },
+          {
+            "id": "1ab59857-726b-8191-ba17-cf1d76c11e8e"
+          },
+          {
+            "id": "1ab59857-726b-8159-b3fc-f0909b8c9750"
+          },
+          {
+            "id": "1ab59857-726b-81c2-b3a0-d8c2031547cc"
+          }
+        ],
+        "has_more": true
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "マイコレ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "マイコレ",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/1a959857726b80fdba4cf531abc232cf",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-802c-97ef-ec2e2572be4b",
+    "created_time": "2025-03-01T16:49:00.000Z",
+    "last_edited_time": "2025-03-01T16:49:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-8164-9899-cad212774026"
+          },
+          {
+            "id": "1ab59857-726b-81f7-9f3d-cccbe800b154"
+          },
+          {
+            "id": "1ab59857-726b-81d3-98f4-e399f09a7c0d"
+          },
+          {
+            "id": "1ab59857-726b-8161-9c31-c4cfab9c528f"
+          },
+          {
+            "id": "1ab59857-726b-8101-b876-d78eb960b1e1"
+          },
+          {
+            "id": "1ab59857-726b-8140-b262-fd2de330e28e"
+          },
+          {
+            "id": "1ab59857-726b-81c4-9540-c1fb9062b5df"
+          },
+          {
+            "id": "1ab59857-726b-8163-aa42-eb779373362a"
+          },
+          {
+            "id": "1ab59857-726b-8129-8a34-e3155a4f9510"
+          },
+          {
+            "id": "1ab59857-726b-8191-bc58-df9b5b656643"
+          },
+          {
+            "id": "1ab59857-726b-8139-aeb6-fb51f2fdd11c"
+          },
+          {
+            "id": "1ab59857-726b-81cf-83f3-de04f0b7a1bd"
+          },
+          {
+            "id": "1ab59857-726b-812a-b065-fa006636a435"
+          },
+          {
+            "id": "1ab59857-726b-81f7-ac46-e976c0fc79ea"
+          },
+          {
+            "id": "27959857-726b-8092-8c27-eb7d397a3f59"
+          }
+        ],
+        "has_more": false
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "myfa",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "myfa",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/myfa-1a959857726b802c97efec2e2572be4b",
+    "public_url": null,
+    "archived": false
+  },
+  {
+    "object": "page",
+    "id": "1a959857-726b-8051-a7ab-e2858c470523",
+    "created_time": "2025-03-01T16:49:00.000Z",
+    "last_edited_time": "2025-03-03T12:05:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "195d872b-594c-81d7-be36-00027d3659cb"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "data_source_id",
+      "data_source_id": "1a959857-726b-8071-ae34-000bfbee6660",
+      "database_id": "1a959857-726b-8077-aa88-db4976ac47d1"
+    },
+    "in_trash": false,
+    "is_archived": false,
+    "is_locked": false,
+    "properties": {
+      "商品DB": {
+        "id": "ADwl",
+        "type": "relation",
+        "relation": [
+          {
+            "id": "1ab59857-726b-81b9-ad41-d52833e8dae6"
+          },
+          {
+            "id": "1ab59857-726b-818a-a289-ef6d3f725725"
+          },
+          {
+            "id": "1ab59857-726b-8110-a608-e4a6c55f852a"
+          },
+          {
+            "id": "1ab59857-726b-8138-a50a-cadfaae7f7cc"
+          },
+          {
+            "id": "1ab59857-726b-816c-ab5b-f4cdaedb3348"
+          },
+          {
+            "id": "1ab59857-726b-81c6-b8d2-e94f148ed098"
+          },
+          {
+            "id": "1ab59857-726b-81fd-b605-c767b26fead6"
+          },
+          {
+            "id": "1ab59857-726b-810d-b46a-d0966350d7b3"
+          },
+          {
+            "id": "1ab59857-726b-81e8-b4e3-fd8e8f0f8d1c"
+          },
+          {
+            "id": "1ab59857-726b-816d-a30b-c4abb3d40c4d"
+          },
+          {
+            "id": "1ab59857-726b-810b-b712-d8751b166494"
+          },
+          {
+            "id": "1ab59857-726b-815a-ad48-e9b120dd5b37"
+          },
+          {
+            "id": "1ab59857-726b-8129-9091-ff2283e577a6"
+          },
+          {
+            "id": "1ab59857-726b-81d4-9f7e-e5a510269f8f"
+          },
+          {
+            "id": "1ab59857-726b-8116-b1dd-e4a9a157c54d"
+          },
+          {
+            "id": "1ab59857-726b-8120-b417-ea0462b2b43b"
+          },
+          {
+            "id": "1ab59857-726b-8150-9ae2-ca1a2c627080"
+          },
+          {
+            "id": "1ab59857-726b-8169-aa48-dd556ee3bbaa"
+          },
+          {
+            "id": "1ab59857-726b-81a4-976c-f27d283d1bc2"
+          },
+          {
+            "id": "1ab59857-726b-8197-b68e-ec42ba3fc705"
+          },
+          {
+            "id": "1ab59857-726b-814d-88e0-ced3db34e4ad"
+          },
+          {
+            "id": "1ab59857-726b-814a-8651-cbba89cb17dc"
+          },
+          {
+            "id": "1d259857-726b-80d2-80dd-db5803124f69"
+          },
+          {
+            "id": "1d259857-726b-80b9-975f-dd807c75884f"
+          },
+          {
+            "id": "1d259857-726b-805f-830d-c0feccdca325"
+          }
+        ],
+        "has_more": true
+      },
+      "名前": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "irelu",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "irelu",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://app.notion.com/p/irelu-1a959857726b8051a7abe2858c470523",
+    "public_url": null,
+    "archived": false
+  }
+]

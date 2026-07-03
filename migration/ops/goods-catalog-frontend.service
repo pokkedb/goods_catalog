@@ -1,0 +1,12 @@
+[Unit]
+Description=goods_catalog Frontend
+After=network.target
+
+[Service]
+User=pokke_yuki
+WorkingDirectory=/pokke/apps/goods_catalog/frontend
+ExecStart=/usr/bin/npm run dev
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
