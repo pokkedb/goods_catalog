@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import api from "../api";
+import searchIcon from "../assets/search_20.svg";
 
 const MEDIA_BASE = import.meta.env.VITE_API_BASE_URL || "http://192.168.50.78:8123";
 const PAGE_SIZE = 60;
@@ -83,15 +84,19 @@ export default function ProductList() {
         </Link>
       </div>
 
-      <div className="flex gap-3">
+      <div className="flex gap-2 sm:gap-3">
         <input
-          className="input max-w-xs"
+          className="input flex-1 min-w-0 sm:max-w-xs"
           placeholder="商品名・JANコードで検索"
           value={qInput}
           onChange={(e) => setQInput(e.target.value)}
           onKeyDown={(e) => e.key === "Enter" && search()}
         />
-        <select className="input max-w-xs" value={category} onChange={(e) => changeCategory(e.target.value)}>
+        <select
+          className="input shrink-0 w-28 sm:w-auto sm:max-w-xs"
+          value={category}
+          onChange={(e) => changeCategory(e.target.value)}
+        >
           <option value="">すべてのカテゴリ</option>
           {categories.map((c) => (
             <option key={c} value={c}>{c}</option>
@@ -99,9 +104,11 @@ export default function ProductList() {
         </select>
         <button
           onClick={search}
-          className="px-4 py-2 rounded-lg bg-blue-600 text-white text-sm font-medium hover:bg-blue-700"
+          title="検索"
+          className="shrink-0 w-10 h-10 sm:w-auto sm:px-4 sm:py-2 rounded-lg bg-blue-600 text-white text-sm font-medium hover:bg-blue-700 flex items-center justify-center gap-1"
         >
-          検索
+          <img src={searchIcon} alt="" className="w-5 h-5" />
+          <span className="hidden sm:inline">検索</span>
         </button>
       </div>
 

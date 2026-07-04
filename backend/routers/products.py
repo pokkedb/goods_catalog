@@ -1,8 +1,10 @@
+import io
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
 
 from fastapi import APIRouter, Depends, HTTPException, Query, UploadFile, File
+from PIL import Image
 from sqlalchemy import or_, func
 from sqlalchemy.orm import Session, joinedload
 
@@ -24,6 +26,8 @@ UPLOAD_CONTENT_TYPES = {
 }
 MAX_UPLOAD_SIZE = 10 * 1024 * 1024  # 10MB
 MAX_IMAGES_PER_PRODUCT = 1  # フロント側の制限と合わせる（基本1商品1画像の運用のため）
+MAX_IMAGE_DIMENSION = 1600  # 長辺がこれを超える場合のみ縮小
+JPEG_QUALITY = 80
 
 # カテゴリ名 -> (サブタイプORMクラス, そのカテゴリ固有のペイロードフィールド名一覧)
 CATEGORY_SUBTYPE_MAP = {
@@ -287,6 +291,24 @@ async def upload_product_image(product_id: int, file: UploadFile = File(...), db
     content = await file.read()
     if len(content) > MAX_UPLOAD_SIZE:
         raise HTTPException(status_code=400, detail="ファイルサイズが大きすぎます（上限10MB）")
+
+    try:
+        image = Image.open(io.BytesIO(content))
+        image.load()
+    except Exception:
+        raise HTTPException(status_code=400, detail="画像として読み込めませんでした")
+
+    # 長辺1600px・JPEG品質80%に統一して保存する（元がPNG/WebP/GIF等でもJPEG化する）。
+    # スマホ撮影の4000x3000クラスの原寸をそのまま保存すると1枚数MBになり、
+    # 一覧グリッド・詳細ギャラリー表示用途にはオーバースペックなため
+    if image.mode != "RGB":
+        image = image.convert("RGB")
+    if max(image.size) > MAX_IMAGE_DIMENSION:
+        image.thumbnail((MAX_IMAGE_DIMENSION, MAX_IMAGE_DIMENSION), Image.LANCZOS)
+    buffer = io.BytesIO()
+    image.save(buffer, format="JPEG", quality=JPEG_QUALITY)
+    content = buffer.getvalue()
+    ext = "jpg"
 
     max_sort = (
         db.query(func.max(ProductImage.sort_order))

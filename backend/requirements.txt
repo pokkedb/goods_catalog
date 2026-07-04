@@ -5,3 +5,4 @@ sqladmin==0.20.1
 pydantic==2.10.3
 python-dotenv==1.0.1
 python-multipart==0.0.17
+pillow==11.0.0

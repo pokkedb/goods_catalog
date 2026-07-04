@@ -308,7 +308,7 @@ export default function ProductDetail() {
             <Field label="商品名 *">
               <input value={form.name} onChange={(e) => set("name", e.target.value)} className="input" />
             </Field>
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <Field label="カテゴリ *">
                 <select value={form.category} onChange={(e) => set("category", e.target.value)} className="input">
                   {categories.map((c) => <option key={c} value={c}>{c}</option>)}
@@ -323,7 +323,7 @@ export default function ProductDetail() {
                 />
               </Field>
             </div>
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <Field label="ブランド（候補になければ新規追加されます）">
                 <Combobox
                   value={form.brand_name}
@@ -385,7 +385,7 @@ export default function ProductDetail() {
             )}
 
             {form.category === "リフィル" && (
-              <div className="grid grid-cols-2 gap-4">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 <Field label="リフィルポケット数（候補になければ自由入力もできます）">
                   <Combobox
                     value={form.pocket_count_label}
